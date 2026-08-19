@@ -1,743 +1,779 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Tool-Related GitHub Repos"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "KAPE"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "KapeFiles",
-          "description": "This repository contains all the Targets and Modules utilized by KAPE to collect and process forensic artifacts",
           "children": [
             {
-              "node_type": "item",
-              "title": "KapeFiles GitHub Project",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": null,
-                "last_commit": "2026-06-17T12:18:50Z",
-                "owner": "EricZimmerman",
-                "repo": "KapeFiles",
-                "stars": 867
-              }
-            }
-          ],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-06-17T12:18:50Z",
-            "owner": "EricZimmerman",
-            "repo": "KapeFiles",
-            "stars": 867
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "KapeDocs",
-          "description": "This repository serves as the backend for KAPE's Official Documentation, linked here",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-02-11T17:31:14Z",
-            "owner": "EricZimmerman",
-            "repo": "KapeDocs",
-            "stars": 49
-          }
-        }
-      ],
-      "title": "Official GitHub repositories:"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "CyberPipe",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PowerShell",
-            "last_commit": "2025-12-03T13:11:25Z",
-            "owner": "dwmetz",
-            "repo": "CyberPipe",
-            "stars": 343
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "iTunes_Backup_Reader",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-10-16T22:49:46Z",
-            "owner": "jfarley248",
-            "repo": "iTunes_Backup_Reader",
-            "stars": 192
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Invoke-Forensics",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PowerShell",
-            "last_commit": "2023-11-28T12:15:43Z",
-            "owner": "swisscom",
-            "repo": "Invoke-Forensics",
-            "stars": 118
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "IRCP",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PowerShell",
-            "last_commit": "2022-01-31T09:24:25Z",
-            "owner": "hackjalstead",
-            "repo": "IRCP",
-            "stars": 65
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Get-MiniTimeline",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PowerShell",
-            "last_commit": "2024-05-25T07:18:54Z",
-            "owner": "evild3ad",
-            "repo": "Get-MiniTimeline",
-            "stars": 35
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Get-KapeModuleBinaries",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PowerShell",
-            "last_commit": "2019-10-02T18:39:15Z",
-            "owner": "grayfold3d",
-            "repo": "Get-KapeModuleBinaries",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ForensicImageKAPEOutput",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-08-31T04:22:08Z",
-            "owner": "AndrewRathbun",
-            "repo": "ForensicImageKAPEOutput",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "KapeStrike",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PowerShell",
-            "last_commit": "2022-03-05T00:47:17Z",
-            "owner": "Snausage0x45",
-            "repo": "KapeStrike",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "KAPE_Tools",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2019-08-13T04:42:42Z",
-            "owner": "mdegrazia",
-            "repo": "KAPE_Tools",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "kape-remote-collections",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2021-03-22T16:28:49Z",
-            "owner": "mark-hallman",
-            "repo": "kape-remote-collections",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Invoke-Kape",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PowerShell",
-            "last_commit": "2019-08-08T15:34:43Z",
-            "owner": "keyboardcrunch",
-            "repo": "Invoke-Kape",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RemoteKapeTriage",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PowerShell",
-            "last_commit": "2021-05-28T19:45:46Z",
-            "owner": "Richard1611",
-            "repo": "RemoteKapeTriage",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DFRWS-2019-KAPE-Workshop",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2019-07-14T19:41:50Z",
-            "owner": "mark-hallman",
-            "repo": "DFRWS-2019-KAPE-Workshop",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "kape-at-scale",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2019-10-15T11:51:45Z",
-            "owner": "mark-hallman",
-            "repo": "kape-at-scale",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "KAPE-Automation",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PowerShell",
-            "last_commit": "2020-06-23T15:56:14Z",
-            "owner": "Beercow",
-            "repo": "KAPE-Automation",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Heed",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PowerShell",
-            "last_commit": "2023-10-27T07:00:31Z",
-            "owner": "XCID11",
-            "repo": "Heed",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Kape2ADX",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-03-27T11:12:06Z",
-            "owner": "mikecybersec",
-            "repo": "Kape2ADX",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "KAPE-Binary-Downloads",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PowerShell",
-            "last_commit": "2019-09-12T17:26:35Z",
-            "owner": "esecrpm",
-            "repo": "KAPE-Binary-Downloads",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Kapesaw",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PowerShell",
-            "last_commit": "2025-04-21T14:28:50Z",
-            "owner": "acquiredsecurity",
-            "repo": "kapesaw",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Kape-MDE",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PowerShell",
-            "last_commit": "2026-01-16T18:14:31Z",
-            "owner": "dsplice",
-            "repo": "kape-mde",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "KAPEConfigurationFIles",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PowerShell",
-            "last_commit": "2022-06-19T14:38:23Z",
-            "owner": "robertstrom",
-            "repo": "KAPEConfigurationFIles",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "KapeMisc",
-          "description": null,
-          "children": []
-        }
-      ],
-      "title": "Community KAPE-related GitHub repositories:"
-    },
-    {
-      "description": "The command line versions of Eric Zimmerman's Tools ship with KAPE, so they are very relevant to KAPE's overall functionality. The following EZ Tools have KAPE Modules written for them and these repos should be monitored for activity given that they will directly influence KAPE output.",
-      "items": [],
-      "title": "EZ Tools"
-    },
-    {
-      "description": "Eric Zimmerman and Andrew Rathbun co-authored EZ Tools Manuals on Leanpub. You can find the book here!",
-      "items": [],
-      "title": "EZ Tools Manuals"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "EvtxECmd",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Namely, Maps",
-              "description": "where EvtxECmd Maps are located",
               "children": [
                 {
                   "node_type": "item",
-                  "title": "EvtxECmd GitHub Project",
+                  "title": "KapeFiles",
+                  "description": "This repository contains all the Targets and Modules utilized by KAPE to collect and process forensic artifacts",
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "KapeFiles GitHub Project",
+                      "description": null,
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 152290823,
+                        "language": null,
+                        "last_commit": "2026-06-17T12:18:50Z",
+                        "owner": "EricZimmerman",
+                        "repo": "KapeFiles",
+                        "stars": 867
+                      }
+                    }
+                  ],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 152290823,
+                    "language": null,
+                    "last_commit": "2026-06-17T12:18:50Z",
+                    "owner": "EricZimmerman",
+                    "repo": "KapeFiles",
+                    "stars": 867
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "KapeDocs",
+                  "description": "This repository serves as the backend for KAPE's Official Documentation, linked here",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 187300385,
+                    "language": "HTML",
+                    "last_commit": "2026-02-11T17:31:14Z",
+                    "owner": "EricZimmerman",
+                    "repo": "KapeDocs",
+                    "stars": 49
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Official GitHub repositories:"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "CyberPipe",
                   "description": null,
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 329412171,
+                    "language": "PowerShell",
+                    "last_commit": "2025-12-03T13:11:25Z",
+                    "owner": "dwmetz",
+                    "repo": "CyberPipe",
+                    "stars": 343
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "iTunes_Backup_Reader",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 180028504,
+                    "language": "Python",
+                    "last_commit": "2023-10-16T22:49:46Z",
+                    "owner": "jfarley248",
+                    "repo": "iTunes_Backup_Reader",
+                    "stars": 192
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Invoke-Forensics",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 348381938,
+                    "language": "PowerShell",
+                    "last_commit": "2023-11-28T12:15:43Z",
+                    "owner": "swisscom",
+                    "repo": "Invoke-Forensics",
+                    "stars": 118
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "IRCP",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 447665318,
+                    "language": "PowerShell",
+                    "last_commit": "2022-01-31T09:24:25Z",
+                    "owner": "hackjalstead",
+                    "repo": "IRCP",
+                    "stars": 65
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Get-MiniTimeline",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 223596794,
+                    "language": "PowerShell",
+                    "last_commit": "2024-05-25T07:18:54Z",
+                    "owner": "evild3ad",
+                    "repo": "Get-MiniTimeline",
+                    "stars": 35
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Get-KapeModuleBinaries",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 182198835,
+                    "language": "PowerShell",
+                    "last_commit": "2019-10-02T18:39:15Z",
+                    "owner": "grayfold3d",
+                    "repo": "Get-KapeModuleBinaries",
+                    "stars": 18
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ForensicImageKAPEOutput",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 401111287,
+                    "language": null,
+                    "last_commit": "2024-08-31T04:22:08Z",
+                    "owner": "AndrewRathbun",
+                    "repo": "ForensicImageKAPEOutput",
+                    "stars": 17
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "KapeStrike",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 466235783,
+                    "language": "PowerShell",
+                    "last_commit": "2022-03-05T00:47:17Z",
+                    "owner": "Snausage0x45",
+                    "repo": "KapeStrike",
+                    "stars": 15
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "KAPE_Tools",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 201533454,
+                    "language": null,
+                    "last_commit": "2019-08-13T04:42:42Z",
+                    "owner": "mdegrazia",
+                    "repo": "KAPE_Tools",
+                    "stars": 13
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "kape-remote-collections",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 295282114,
+                    "language": null,
+                    "last_commit": "2021-03-22T16:28:49Z",
+                    "owner": "mark-hallman",
+                    "repo": "kape-remote-collections",
+                    "stars": 11
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Invoke-Kape",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 201285742,
+                    "language": "PowerShell",
+                    "last_commit": "2019-08-08T15:34:43Z",
+                    "owner": "keyboardcrunch",
+                    "repo": "Invoke-Kape",
+                    "stars": 10
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "RemoteKapeTriage",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 354057982,
+                    "language": "PowerShell",
+                    "last_commit": "2021-05-28T19:45:46Z",
+                    "owner": "Richard1611",
+                    "repo": "RemoteKapeTriage",
+                    "stars": 10
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "DFRWS-2019-KAPE-Workshop",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 193730579,
+                    "language": null,
+                    "last_commit": "2019-07-14T19:41:50Z",
+                    "owner": "mark-hallman",
+                    "repo": "DFRWS-2019-KAPE-Workshop",
+                    "stars": 9
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "kape-at-scale",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 207338262,
+                    "language": null,
+                    "last_commit": "2019-10-15T11:51:45Z",
+                    "owner": "mark-hallman",
+                    "repo": "kape-at-scale",
+                    "stars": 9
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "KAPE-Automation",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 238717045,
+                    "language": "PowerShell",
+                    "last_commit": "2020-06-23T15:56:14Z",
+                    "owner": "Beercow",
+                    "repo": "KAPE-Automation",
+                    "stars": 8
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Heed",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 666916403,
+                    "language": "PowerShell",
+                    "last_commit": "2023-10-27T07:00:31Z",
+                    "owner": "XCID11",
+                    "repo": "Heed",
+                    "stars": 6
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Kape2ADX",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 718148455,
+                    "language": "Python",
+                    "last_commit": "2024-03-27T11:12:06Z",
+                    "owner": "mikecybersec",
+                    "repo": "Kape2ADX",
+                    "stars": 6
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "KAPE-Binary-Downloads",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 177062669,
+                    "language": "PowerShell",
+                    "last_commit": "2019-09-12T17:26:35Z",
+                    "owner": "esecrpm",
+                    "repo": "KAPE-Binary-Downloads",
+                    "stars": 6
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Kapesaw",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 953200718,
+                    "language": "PowerShell",
+                    "last_commit": "2025-04-21T14:28:50Z",
+                    "owner": "acquiredsecurity",
+                    "repo": "kapesaw",
+                    "stars": 6
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Kape-MDE",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 937379334,
+                    "language": "PowerShell",
+                    "last_commit": "2026-01-16T18:14:31Z",
+                    "owner": "dsplice",
+                    "repo": "kape-mde",
+                    "stars": 4
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "KAPEConfigurationFIles",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 374200034,
+                    "language": "PowerShell",
+                    "last_commit": "2022-06-19T14:38:23Z",
+                    "owner": "robertstrom",
+                    "repo": "KAPEConfigurationFIles",
+                    "stars": 3
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Community KAPE-related GitHub repositories:"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "KAPE"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "EvtxECmd",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Namely, Maps",
+                      "description": "where EvtxECmd Maps are located",
+                      "children": [
+                        {
+                          "node_type": "item",
+                          "title": "EvtxECmd GitHub Project",
+                          "description": null,
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "id": 176131345,
+                            "language": "C#",
+                            "last_commit": "2026-06-17T13:28:37Z",
+                            "owner": "EricZimmerman",
+                            "repo": "evtx",
+                            "stars": 372
+                          }
+                        }
+                      ],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 176131345,
+                        "language": "C#",
+                        "last_commit": "2026-06-17T13:28:37Z",
+                        "owner": "EricZimmerman",
+                        "repo": "evtx",
+                        "stars": 372
+                      }
+                    }
+                  ],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 176131345,
                     "language": "C#",
                     "last_commit": "2026-06-17T13:28:37Z",
                     "owner": "EricZimmerman",
                     "repo": "evtx",
                     "stars": 372
                   }
-                }
-              ],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2026-06-17T13:28:37Z",
-                "owner": "EricZimmerman",
-                "repo": "evtx",
-                "stars": 372
-              }
-            }
-          ],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-06-17T13:28:37Z",
-            "owner": "EricZimmerman",
-            "repo": "evtx",
-            "stars": 372
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LECmd",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-05-13T19:01:43Z",
-            "owner": "EricZimmerman",
-            "repo": "LECmd",
-            "stars": 347
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MFTECmd",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-05-10T13:45:26Z",
-            "owner": "EricZimmerman",
-            "repo": "MFTECmd",
-            "stars": 331
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PECmd",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-04-29T17:48:41Z",
-            "owner": "EricZimmerman",
-            "repo": "PECmd",
-            "stars": 305
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RECmd",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Namely, BatchExamples",
-              "description": "where Batch Files are",
-              "children": [
+                },
                 {
                   "node_type": "item",
-                  "title": "RECmd Kroll Batch GitHub Project",
+                  "title": "LECmd",
                   "description": null,
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 51476225,
+                    "language": "C#",
+                    "last_commit": "2026-05-13T19:01:43Z",
+                    "owner": "EricZimmerman",
+                    "repo": "LECmd",
+                    "stars": 347
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MFTECmd",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 136507167,
+                    "language": "C#",
+                    "last_commit": "2026-05-10T13:45:26Z",
+                    "owner": "EricZimmerman",
+                    "repo": "MFTECmd",
+                    "stars": 332
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "PECmd",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 50198821,
+                    "language": "C#",
+                    "last_commit": "2026-04-29T17:48:41Z",
+                    "owner": "EricZimmerman",
+                    "repo": "PECmd",
+                    "stars": 305
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "RECmd",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Namely, BatchExamples",
+                      "description": "where Batch Files are",
+                      "children": [
+                        {
+                          "node_type": "item",
+                          "title": "RECmd Kroll Batch GitHub Project",
+                          "description": null,
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "id": 36804798,
+                            "language": "Rebol",
+                            "last_commit": "2026-05-04T17:12:59Z",
+                            "owner": "EricZimmerman",
+                            "repo": "RECmd",
+                            "stars": 183
+                          }
+                        }
+                      ],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 36804798,
+                        "language": "Rebol",
+                        "last_commit": "2026-05-04T17:12:59Z",
+                        "owner": "EricZimmerman",
+                        "repo": "RECmd",
+                        "stars": 183
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Also, RegistryPlugins",
+                      "description": "which are used by RECmd (and Registry Explorer) to generate more efficient/actionable output",
+                      "children": [
+                        {
+                          "node_type": "item",
+                          "title": "Registry Explorer Plugins GitHub Project",
+                          "description": null,
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "id": 79587742,
+                            "language": "C#",
+                            "last_commit": "2026-04-26T17:40:58Z",
+                            "owner": "EricZimmerman",
+                            "repo": "RegistryPlugins",
+                            "stars": 86
+                          }
+                        }
+                      ],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 79587742,
+                        "language": "C#",
+                        "last_commit": "2026-04-26T17:40:58Z",
+                        "owner": "EricZimmerman",
+                        "repo": "RegistryPlugins",
+                        "stars": 86
+                      }
+                    }
+                  ],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 36804798,
                     "language": "Rebol",
                     "last_commit": "2026-05-04T17:12:59Z",
                     "owner": "EricZimmerman",
                     "repo": "RECmd",
                     "stars": 183
                   }
-                }
-              ],
-              "repo_info": {
-                "archived": false,
-                "language": "Rebol",
-                "last_commit": "2026-05-04T17:12:59Z",
-                "owner": "EricZimmerman",
-                "repo": "RECmd",
-                "stars": 183
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Also, RegistryPlugins",
-              "description": "which are used by RECmd (and Registry Explorer) to generate more efficient/actionable output",
-              "children": [
+                },
                 {
                   "node_type": "item",
-                  "title": "Registry Explorer Plugins GitHub Project",
+                  "title": "AmcacheParser",
                   "description": null,
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 39974474,
                     "language": "C#",
-                    "last_commit": "2026-04-26T17:40:58Z",
+                    "last_commit": "2026-06-17T12:23:17Z",
                     "owner": "EricZimmerman",
-                    "repo": "RegistryPlugins",
-                    "stars": 86
+                    "repo": "AmcacheParser",
+                    "stars": 157
                   }
-                }
-              ],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2026-04-26T17:40:58Z",
-                "owner": "EricZimmerman",
-                "repo": "RegistryPlugins",
-                "stars": 86
-              }
-            }
-          ],
-          "repo_info": {
-            "archived": false,
-            "language": "Rebol",
-            "last_commit": "2026-05-04T17:12:59Z",
-            "owner": "EricZimmerman",
-            "repo": "RECmd",
-            "stars": 183
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AmcacheParser",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-06-17T12:23:17Z",
-            "owner": "EricZimmerman",
-            "repo": "AmcacheParser",
-            "stars": 157
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "bstrings",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-04-26T16:09:16Z",
-            "owner": "EricZimmerman",
-            "repo": "bstrings",
-            "stars": 151
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AppCompatCacheParser",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-05-03T21:25:28Z",
-            "owner": "EricZimmerman",
-            "repo": "AppCompatCacheParser",
-            "stars": 129
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "JLECmd",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-05-05T16:25:17Z",
-            "owner": "EricZimmerman",
-            "repo": "JLECmd",
-            "stars": 121
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RBCmd",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-04-28T15:20:09Z",
-            "owner": "EricZimmerman",
-            "repo": "RBCmd",
-            "stars": 62
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SQLECmd",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Namely, Maps",
-              "description": "where SQLECmd Maps are located",
-              "children": [
+                },
                 {
                   "node_type": "item",
-                  "title": "SQLECmd GitHub Project",
+                  "title": "bstrings",
                   "description": null,
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 38929387,
+                    "language": "C#",
+                    "last_commit": "2026-04-26T16:09:16Z",
+                    "owner": "EricZimmerman",
+                    "repo": "bstrings",
+                    "stars": 151
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "AppCompatCacheParser",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 34874266,
+                    "language": "C#",
+                    "last_commit": "2026-05-03T21:25:28Z",
+                    "owner": "EricZimmerman",
+                    "repo": "AppCompatCacheParser",
+                    "stars": 129
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "JLECmd",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 53182348,
+                    "language": "C#",
+                    "last_commit": "2026-05-05T16:25:17Z",
+                    "owner": "EricZimmerman",
+                    "repo": "JLECmd",
+                    "stars": 121
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "RBCmd",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 158273172,
+                    "language": "C#",
+                    "last_commit": "2026-04-28T15:20:09Z",
+                    "owner": "EricZimmerman",
+                    "repo": "RBCmd",
+                    "stars": 62
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SQLECmd",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Namely, Maps",
+                      "description": "where SQLECmd Maps are located",
+                      "children": [
+                        {
+                          "node_type": "item",
+                          "title": "SQLECmd GitHub Project",
+                          "description": null,
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "id": 244445814,
+                            "language": "C#",
+                            "last_commit": "2026-04-28T14:39:57Z",
+                            "owner": "EricZimmerman",
+                            "repo": "SQLECmd",
+                            "stars": 61
+                          }
+                        }
+                      ],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 244445814,
+                        "language": "C#",
+                        "last_commit": "2026-04-28T14:39:57Z",
+                        "owner": "EricZimmerman",
+                        "repo": "SQLECmd",
+                        "stars": 61
+                      }
+                    }
+                  ],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 244445814,
                     "language": "C#",
                     "last_commit": "2026-04-28T14:39:57Z",
                     "owner": "EricZimmerman",
                     "repo": "SQLECmd",
                     "stars": 61
                   }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SrumECmd",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 323506559,
+                    "language": "C#",
+                    "last_commit": "2026-05-01T20:52:00Z",
+                    "owner": "EricZimmerman",
+                    "repo": "Srum",
+                    "stars": 53
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Registry Explorer Bookmarks GitHub Project",
+                  "description": "are used only by Registry Explorer",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 30658808,
+                    "language": null,
+                    "last_commit": "2024-12-19T12:55:44Z",
+                    "owner": "EricZimmerman",
+                    "repo": "RegistryExplorerBookmarks",
+                    "stars": 45
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "RecentFileCacheParser",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 118168602,
+                    "language": "C#",
+                    "last_commit": "2026-04-30T20:24:43Z",
+                    "owner": "EricZimmerman",
+                    "repo": "RecentFileCacheParser",
+                    "stars": 31
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "WxTCmd",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 132497123,
+                    "language": "C#",
+                    "last_commit": "2026-04-28T19:45:45Z",
+                    "owner": "EricZimmerman",
+                    "repo": "WxTCmd",
+                    "stars": 26
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SumECmd",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 340423111,
+                    "language": "C#",
+                    "last_commit": "2026-04-26T21:11:00Z",
+                    "owner": "EricZimmerman",
+                    "repo": "Sum",
+                    "stars": 20
+                  }
                 }
               ],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2026-04-28T14:39:57Z",
-                "owner": "EricZimmerman",
-                "repo": "SQLECmd",
-                "stars": 61
-              }
+              "description": null,
+              "node_type": "group",
+              "title": "Official GitHub repositories:"
             }
           ],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-04-28T14:39:57Z",
-            "owner": "EricZimmerman",
-            "repo": "SQLECmd",
-            "stars": 61
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SrumECmd",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-05-01T20:52:00Z",
-            "owner": "EricZimmerman",
-            "repo": "Srum",
-            "stars": 53
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Registry Explorer Bookmarks GitHub Project",
-          "description": "are used only by Registry Explorer",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-12-19T12:55:44Z",
-            "owner": "EricZimmerman",
-            "repo": "RegistryExplorerBookmarks",
-            "stars": 45
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RecentFileCacheParser",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-04-30T20:24:43Z",
-            "owner": "EricZimmerman",
-            "repo": "RecentFileCacheParser",
-            "stars": 31
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WxTCmd",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-04-28T19:45:45Z",
-            "owner": "EricZimmerman",
-            "repo": "WxTCmd",
-            "stars": 26
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SumECmd",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-04-26T21:11:00Z",
-            "owner": "EricZimmerman",
-            "repo": "Sum",
-            "stars": 20
-          }
+          "description": "The command line versions of Eric Zimmerman's Tools ship with KAPE, so they are very relevant to KAPE's overall functionality. The following EZ Tools have KAPE Modules written for them and these repos should be monitored for activity given that they will directly influence KAPE output.",
+          "node_type": "group",
+          "title": "EZ Tools"
         }
       ],
-      "title": "Official GitHub repositories:"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Resources"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Unofficial Version History"
+      "title": "Tool-Related GitHub Repos"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T05:03:47.522Z",
+    "last_updated": "2026-08-19T12:10:44.871Z",
     "original_repository": "AndrewRathbun/Awesome-KAPE",
+    "original_repository_id": 399053340,
     "original_repository_sha": "3925fcbd2aa6fa8b38cd30522437f27937604e57",
     "enhanced_repository": "enhansome/enhansome-Awesome-KAPE",
     "enhanced_repository_description": null,

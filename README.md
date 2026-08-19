@@ -77,7 +77,7 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
   * Namely, [Maps](https://github.com/EricZimmerman/evtx/tree/master/evtx/Maps) ⭐ 372 | 🐛 7 | 🌐 C# | 📅 2026-06-17 where EvtxECmd Maps are located
     * [EvtxECmd GitHub Project](https://github.com/EricZimmerman/evtx/projects/1) ⭐ 372 | 🐛 7 | 🌐 C# | 📅 2026-06-17
 * [LECmd](https://github.com/EricZimmerman/LECmd) ⭐ 347 | 🐛 2 | 🌐 C# | 📅 2026-05-13
-* [MFTECmd](https://github.com/EricZimmerman/MFTECmd) ⭐ 331 | 🐛 6 | 🌐 C# | 📅 2026-05-10
+* [MFTECmd](https://github.com/EricZimmerman/MFTECmd) ⭐ 332 | 🐛 6 | 🌐 C# | 📅 2026-05-10
 * [PECmd](https://github.com/EricZimmerman/PECmd) ⭐ 305 | 🐛 1 | 🌐 C# | 📅 2026-04-29
 * [RECmd](https://github.com/EricZimmerman/RECmd) ⭐ 183 | 🐛 1 | 🌐 Rebol | 📅 2026-05-04
   * Namely, [BatchExamples](https://github.com/EricZimmerman/RECmd/tree/master/BatchExamples) ⭐ 183 | 🐛 1 | 🌐 Rebol | 📅 2026-05-04 where Batch Files are
