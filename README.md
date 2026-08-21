@@ -39,7 +39,7 @@ In line with other Awesome GitHub repos, Awesome-KAPE serves as a curated list o
 
 #### Community KAPE-related GitHub repositories:
 
-* [CyberPipe](https://github.com/dwmetz/CyberPipe) ⭐ 343 | 🐛 0 | 🌐 PowerShell | 📅 2025-12-03
+* [CyberPipe](https://github.com/dwmetz/CyberPipe) ⭐ 344 | 🐛 0 | 🌐 PowerShell | 📅 2025-12-03
 * [iTunes\_Backup\_Reader](https://github.com/jfarley248/iTunes_Backup_Reader) ⭐ 192 | 🐛 19 | 🌐 Python | 📅 2023-10-16
 * [Invoke-Forensics](https://github.com/swisscom/Invoke-Forensics) ⭐ 118 | 🐛 0 | 🌐 PowerShell | 📅 2023-11-28
 * [IRCP](https://github.com/hackjalstead/IRCP) ⭐ 65 | 🐛 0 | 🌐 PowerShell | 📅 2022-01-31
@@ -79,15 +79,15 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
 * [LECmd](https://github.com/EricZimmerman/LECmd) ⭐ 347 | 🐛 2 | 🌐 C# | 📅 2026-05-13
 * [MFTECmd](https://github.com/EricZimmerman/MFTECmd) ⭐ 332 | 🐛 6 | 🌐 C# | 📅 2026-05-10
 * [PECmd](https://github.com/EricZimmerman/PECmd) ⭐ 305 | 🐛 1 | 🌐 C# | 📅 2026-04-29
-* [RECmd](https://github.com/EricZimmerman/RECmd) ⭐ 183 | 🐛 1 | 🌐 Rebol | 📅 2026-05-04
-  * Namely, [BatchExamples](https://github.com/EricZimmerman/RECmd/tree/master/BatchExamples) ⭐ 183 | 🐛 1 | 🌐 Rebol | 📅 2026-05-04 where Batch Files are
-    * [RECmd Kroll Batch GitHub Project](https://github.com/EricZimmerman/RECmd/projects/1) ⭐ 183 | 🐛 1 | 🌐 Rebol | 📅 2026-05-04
+* [RECmd](https://github.com/EricZimmerman/RECmd) ⭐ 182 | 🐛 1 | 🌐 Rebol | 📅 2026-05-04
+  * Namely, [BatchExamples](https://github.com/EricZimmerman/RECmd/tree/master/BatchExamples) ⭐ 182 | 🐛 1 | 🌐 Rebol | 📅 2026-05-04 where Batch Files are
+    * [RECmd Kroll Batch GitHub Project](https://github.com/EricZimmerman/RECmd/projects/1) ⭐ 182 | 🐛 1 | 🌐 Rebol | 📅 2026-05-04
   * Also, [RegistryPlugins](https://github.com/EricZimmerman/RegistryPlugins) ⭐ 86 | 🐛 1 | 🌐 C# | 📅 2026-04-26 which are used by RECmd (and Registry Explorer) to generate more efficient/actionable output
     * [Registry Explorer Plugins GitHub Project](https://github.com/EricZimmerman/RegistryPlugins/projects/1) ⭐ 86 | 🐛 1 | 🌐 C# | 📅 2026-04-26
 * [AmcacheParser](https://github.com/EricZimmerman/AmcacheParser) ⭐ 157 | 🐛 0 | 🌐 C# | 📅 2026-06-17
 * [bstrings](https://github.com/EricZimmerman/bstrings) ⭐ 151 | 🐛 0 | 🌐 C# | 📅 2026-04-26
 * [AppCompatCacheParser](https://github.com/EricZimmerman/AppCompatCacheParser) ⭐ 129 | 🐛 0 | 🌐 C# | 📅 2026-05-03
-* [JLECmd](https://github.com/EricZimmerman/JLECmd) ⭐ 121 | 🐛 2 | 🌐 C# | 📅 2026-05-05
+* [JLECmd](https://github.com/EricZimmerman/JLECmd) ⭐ 122 | 🐛 2 | 🌐 C# | 📅 2026-05-05
 * [RBCmd](https://github.com/EricZimmerman/RBCmd) ⭐ 62 | 🐛 0 | 🌐 C# | 📅 2026-04-28
 * [SQLECmd](https://github.com/EricZimmerman/SQLECmd) ⭐ 61 | 🐛 4 | 🌐 C# | 📅 2026-04-28
   * Namely, [Maps](https://github.com/EricZimmerman/SQLECmd/tree/master/SQLMap/Maps) ⭐ 61 | 🐛 4 | 🌐 C# | 📅 2026-04-28 where SQLECmd Maps are located
@@ -118,7 +118,7 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
 
 ## Mind Maps
 
-* [DFIRMindMaps - KAPE](https://github.com/rathbuna/DFIRMindMaps/tree/main/Tools/KAPE) ⭐ 553 | 🐛 0 | 📅 2022-09-02
+* [DFIRMindMaps - KAPE](https://github.com/rathbuna/DFIRMindMaps/tree/main/Tools/KAPE) ⭐ 551 | 🐛 0 | 📅 2022-09-02
 
 ## SANS Poster
 
@@ -195,4 +195,4 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._

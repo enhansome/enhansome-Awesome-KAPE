@@ -72,7 +72,7 @@
                     "last_commit": "2025-12-03T13:11:25Z",
                     "owner": "dwmetz",
                     "repo": "CyberPipe",
-                    "stars": 343
+                    "stars": 344
                   }
                 },
                 {
@@ -503,7 +503,7 @@
                             "last_commit": "2026-05-04T17:12:59Z",
                             "owner": "EricZimmerman",
                             "repo": "RECmd",
-                            "stars": 183
+                            "stars": 182
                           }
                         }
                       ],
@@ -514,7 +514,7 @@
                         "last_commit": "2026-05-04T17:12:59Z",
                         "owner": "EricZimmerman",
                         "repo": "RECmd",
-                        "stars": 183
+                        "stars": 182
                       }
                     },
                     {
@@ -556,7 +556,7 @@
                     "last_commit": "2026-05-04T17:12:59Z",
                     "owner": "EricZimmerman",
                     "repo": "RECmd",
-                    "stars": 183
+                    "stars": 182
                   }
                 },
                 {
@@ -616,7 +616,7 @@
                     "last_commit": "2026-05-05T16:25:17Z",
                     "owner": "EricZimmerman",
                     "repo": "JLECmd",
-                    "stars": 121
+                    "stars": 122
                   }
                 },
                 {
@@ -771,7 +771,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T05:05:14.052Z",
+    "last_updated": "2026-08-21T05:06:19.763Z",
     "original_repository": "AndrewRathbun/Awesome-KAPE",
     "original_repository_id": 399053340,
     "original_repository_sha": "3925fcbd2aa6fa8b38cd30522437f27937604e57",
