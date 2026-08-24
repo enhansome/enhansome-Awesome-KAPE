@@ -768,10 +768,52 @@
         }
       ],
       "title": "Tool-Related GitHub Repos"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "KAPE-EZToolsAncillaryUpdater",
+          "description": "Keep KAPE and all tools located within updated with a single PowerShell script!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 383231863,
+            "language": "PowerShell",
+            "last_commit": "2025-06-24T13:12:39Z",
+            "owner": "AndrewRathbun",
+            "repo": "KAPE-EZToolsAncillaryUpdater",
+            "stars": 61
+          }
+        }
+      ],
+      "title": "Updating KAPE and EZ Tools"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DFIRMindMaps - KAPE",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 400786822,
+            "language": null,
+            "last_commit": "2022-09-02T11:53:46Z",
+            "owner": "AndrewRathbun",
+            "repo": "DFIRMindMaps",
+            "stars": 551
+          }
+        }
+      ],
+      "title": "Mind Maps"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T05:19:51.499Z",
+    "last_updated": "2026-08-24T14:34:05.229Z",
     "original_repository": "AndrewRathbun/Awesome-KAPE",
     "original_repository_id": 399053340,
     "original_repository_sha": "3925fcbd2aa6fa8b38cd30522437f27937604e57",
