@@ -33,8 +33,8 @@ In line with other Awesome GitHub repos, Awesome-KAPE serves as a curated list o
 
 #### Official GitHub repositories:
 
-* [KapeFiles](https://github.com/EricZimmerman/KapeFiles) ⭐ 868 | 🐛 20 | 📅 2026-06-17 - This repository contains all the Targets and Modules utilized by KAPE to collect and process forensic artifacts
-  * [KapeFiles GitHub Project](https://github.com/EricZimmerman/KapeFiles/projects/1) ⭐ 868 | 🐛 20 | 📅 2026-06-17
+* [KapeFiles](https://github.com/EricZimmerman/KapeFiles) ⭐ 869 | 🐛 20 | 📅 2026-06-17 - This repository contains all the Targets and Modules utilized by KAPE to collect and process forensic artifacts
+  * [KapeFiles GitHub Project](https://github.com/EricZimmerman/KapeFiles/projects/1) ⭐ 869 | 🐛 20 | 📅 2026-06-17
 * [KapeDocs](https://github.com/EricZimmerman/KapeDocs) ⭐ 49 | 🐛 0 | 🌐 HTML | 📅 2026-02-11 - This repository serves as the backend for KAPE's Official Documentation, linked [here](https://ericzimmerman.github.io/KapeDocs/)
 
 #### Community KAPE-related GitHub repositories:
@@ -195,4 +195,4 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
