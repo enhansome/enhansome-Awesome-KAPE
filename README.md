@@ -33,8 +33,8 @@ In line with other Awesome GitHub repos, Awesome-KAPE serves as a curated list o
 
 #### Official GitHub repositories:
 
-* [KapeFiles](https://github.com/EricZimmerman/KapeFiles) ⭐ 869 | 🐛 20 | 📅 2026-06-17 - This repository contains all the Targets and Modules utilized by KAPE to collect and process forensic artifacts
-  * [KapeFiles GitHub Project](https://github.com/EricZimmerman/KapeFiles/projects/1) ⭐ 869 | 🐛 20 | 📅 2026-06-17
+* [KapeFiles](https://github.com/EricZimmerman/KapeFiles) ⭐ 870 | 🐛 20 | 📅 2026-06-17 - This repository contains all the Targets and Modules utilized by KAPE to collect and process forensic artifacts
+  * [KapeFiles GitHub Project](https://github.com/EricZimmerman/KapeFiles/projects/1) ⭐ 870 | 🐛 20 | 📅 2026-06-17
 * [KapeDocs](https://github.com/EricZimmerman/KapeDocs) ⭐ 49 | 🐛 0 | 🌐 HTML | 📅 2026-02-11 - This repository serves as the backend for KAPE's Official Documentation, linked [here](https://ericzimmerman.github.io/KapeDocs/)
 
 #### Community KAPE-related GitHub repositories:
@@ -85,7 +85,7 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
   * Also, [RegistryPlugins](https://github.com/EricZimmerman/RegistryPlugins) ⭐ 86 | 🐛 1 | 🌐 C# | 📅 2026-04-26 which are used by RECmd (and Registry Explorer) to generate more efficient/actionable output
     * [Registry Explorer Plugins GitHub Project](https://github.com/EricZimmerman/RegistryPlugins/projects/1) ⭐ 86 | 🐛 1 | 🌐 C# | 📅 2026-04-26
 * [AmcacheParser](https://github.com/EricZimmerman/AmcacheParser) ⭐ 157 | 🐛 0 | 🌐 C# | 📅 2026-06-17
-* [bstrings](https://github.com/EricZimmerman/bstrings) ⭐ 151 | 🐛 0 | 🌐 C# | 📅 2026-04-26
+* [bstrings](https://github.com/EricZimmerman/bstrings) ⭐ 152 | 🐛 0 | 🌐 C# | 📅 2026-04-26
 * [AppCompatCacheParser](https://github.com/EricZimmerman/AppCompatCacheParser) ⭐ 129 | 🐛 0 | 🌐 C# | 📅 2026-05-03
 * [JLECmd](https://github.com/EricZimmerman/JLECmd) ⭐ 122 | 🐛 2 | 🌐 C# | 📅 2026-05-05
 * [RBCmd](https://github.com/EricZimmerman/RBCmd) ⭐ 62 | 🐛 0 | 🌐 C# | 📅 2026-04-28
@@ -118,7 +118,7 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
 
 ## Mind Maps
 
-* [DFIRMindMaps - KAPE](https://github.com/rathbuna/DFIRMindMaps/tree/main/Tools/KAPE) ⭐ 551 | 🐛 0 | 📅 2022-09-02
+* [DFIRMindMaps - KAPE](https://github.com/rathbuna/DFIRMindMaps/tree/main/Tools/KAPE) ⭐ 552 | 🐛 0 | 📅 2022-09-02
 
 ## SANS Poster
 
@@ -195,4 +195,4 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._

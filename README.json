@@ -24,7 +24,7 @@
                         "last_commit": "2026-06-17T12:18:50Z",
                         "owner": "EricZimmerman",
                         "repo": "KapeFiles",
-                        "stars": 869
+                        "stars": 870
                       }
                     }
                   ],
@@ -35,7 +35,7 @@
                     "last_commit": "2026-06-17T12:18:50Z",
                     "owner": "EricZimmerman",
                     "repo": "KapeFiles",
-                    "stars": 869
+                    "stars": 870
                   }
                 },
                 {
@@ -586,7 +586,7 @@
                     "last_commit": "2026-04-26T16:09:16Z",
                     "owner": "EricZimmerman",
                     "repo": "bstrings",
-                    "stars": 151
+                    "stars": 152
                   }
                 },
                 {
@@ -805,7 +805,7 @@
             "last_commit": "2022-09-02T11:53:46Z",
             "owner": "AndrewRathbun",
             "repo": "DFIRMindMaps",
-            "stars": 551
+            "stars": 552
           }
         }
       ],
@@ -813,9 +813,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T05:06:49.449Z",
-    "original_repository": "AndrewRathbun/Awesome-KAPE",
-    "original_repository_id": 399053340,
+    "last_updated": "2026-08-27T11:23:10.470Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 399053340,
+      "language": null,
+      "last_commit": "2025-05-01T02:35:37Z",
+      "owner": "AndrewRathbun",
+      "repo": "Awesome-KAPE",
+      "stars": 193
+    },
     "original_repository_sha": "3925fcbd2aa6fa8b38cd30522437f27937604e57",
     "enhanced_repository": "enhansome/enhansome-Awesome-KAPE",
     "enhanced_repository_description": null,
