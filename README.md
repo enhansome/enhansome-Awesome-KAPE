@@ -87,7 +87,7 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
 * [AmcacheParser](https://github.com/EricZimmerman/AmcacheParser) ⭐ 157 | 🐛 0 | 🌐 C# | 📅 2026-06-17
 * [bstrings](https://github.com/EricZimmerman/bstrings) ⭐ 152 | 🐛 0 | 🌐 C# | 📅 2026-04-26
 * [AppCompatCacheParser](https://github.com/EricZimmerman/AppCompatCacheParser) ⭐ 129 | 🐛 0 | 🌐 C# | 📅 2026-05-03
-* [JLECmd](https://github.com/EricZimmerman/JLECmd) ⭐ 122 | 🐛 2 | 🌐 C# | 📅 2026-05-05
+* [JLECmd](https://github.com/EricZimmerman/JLECmd) ⭐ 123 | 🐛 2 | 🌐 C# | 📅 2026-05-05
 * [RBCmd](https://github.com/EricZimmerman/RBCmd) ⭐ 62 | 🐛 0 | 🌐 C# | 📅 2026-04-28
 * [SQLECmd](https://github.com/EricZimmerman/SQLECmd) ⭐ 61 | 🐛 4 | 🌐 C# | 📅 2026-04-28
   * Namely, [Maps](https://github.com/EricZimmerman/SQLECmd/tree/master/SQLMap/Maps) ⭐ 61 | 🐛 4 | 🌐 C# | 📅 2026-04-28 where SQLECmd Maps are located
@@ -195,4 +195,4 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._

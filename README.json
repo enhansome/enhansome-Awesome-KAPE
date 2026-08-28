@@ -25,7 +25,8 @@
                         "owner": "EricZimmerman",
                         "repo": "KapeFiles",
                         "stars": 870
-                      }
+                      },
+                      "first_seen": "2026-08-28T16:51:37.161Z"
                     }
                   ],
                   "repo_info": {
@@ -36,7 +37,8 @@
                     "owner": "EricZimmerman",
                     "repo": "KapeFiles",
                     "stars": 870
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:51:37.161Z"
                 },
                 {
                   "node_type": "item",
@@ -51,7 +53,8 @@
                     "owner": "EricZimmerman",
                     "repo": "KapeDocs",
                     "stars": 49
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:51:37.161Z"
                 }
               ],
               "description": null,
@@ -73,7 +76,8 @@
                     "owner": "dwmetz",
                     "repo": "CyberPipe",
                     "stars": 344
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:51:37.161Z"
                 },
                 {
                   "node_type": "item",
@@ -88,7 +92,8 @@
                     "owner": "jfarley248",
                     "repo": "iTunes_Backup_Reader",
                     "stars": 192
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:51:37.161Z"
                 },
                 {
                   "node_type": "item",
@@ -103,7 +108,8 @@
                     "owner": "swisscom",
                     "repo": "Invoke-Forensics",
                     "stars": 118
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:51:37.161Z"
                 },
                 {
                   "node_type": "item",
@@ -118,7 +124,8 @@
                     "owner": "hackjalstead",
                     "repo": "IRCP",
                     "stars": 65
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:51:37.161Z"
                 },
                 {
                   "node_type": "item",
@@ -133,7 +140,8 @@
                     "owner": "evild3ad",
                     "repo": "Get-MiniTimeline",
                     "stars": 35
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:51:37.161Z"
                 },
                 {
                   "node_type": "item",
@@ -148,7 +156,8 @@
                     "owner": "grayfold3d",
                     "repo": "Get-KapeModuleBinaries",
                     "stars": 18
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:51:37.161Z"
                 },
                 {
                   "node_type": "item",
@@ -163,7 +172,8 @@
                     "owner": "AndrewRathbun",
                     "repo": "ForensicImageKAPEOutput",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:51:37.161Z"
                 },
                 {
                   "node_type": "item",
@@ -178,7 +188,8 @@
                     "owner": "Snausage0x45",
                     "repo": "KapeStrike",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:51:37.161Z"
                 },
                 {
                   "node_type": "item",
@@ -193,7 +204,8 @@
                     "owner": "mdegrazia",
                     "repo": "KAPE_Tools",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:51:37.161Z"
                 },
                 {
                   "node_type": "item",
@@ -208,7 +220,8 @@
                     "owner": "mark-hallman",
                     "repo": "kape-remote-collections",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:51:37.161Z"
                 },
                 {
                   "node_type": "item",
@@ -223,7 +236,8 @@
                     "owner": "keyboardcrunch",
                     "repo": "Invoke-Kape",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:51:37.161Z"
                 },
                 {
                   "node_type": "item",
@@ -238,7 +252,8 @@
                     "owner": "Richard1611",
                     "repo": "RemoteKapeTriage",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:51:37.161Z"
                 },
                 {
                   "node_type": "item",
@@ -253,7 +268,8 @@
                     "owner": "mark-hallman",
                     "repo": "DFRWS-2019-KAPE-Workshop",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:51:37.161Z"
                 },
                 {
                   "node_type": "item",
@@ -268,7 +284,8 @@
                     "owner": "mark-hallman",
                     "repo": "kape-at-scale",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:51:37.161Z"
                 },
                 {
                   "node_type": "item",
@@ -283,7 +300,8 @@
                     "owner": "Beercow",
                     "repo": "KAPE-Automation",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:51:37.161Z"
                 },
                 {
                   "node_type": "item",
@@ -298,7 +316,8 @@
                     "owner": "XCID11",
                     "repo": "Heed",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:51:37.161Z"
                 },
                 {
                   "node_type": "item",
@@ -313,7 +332,8 @@
                     "owner": "mikecybersec",
                     "repo": "Kape2ADX",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:51:37.161Z"
                 },
                 {
                   "node_type": "item",
@@ -328,7 +348,8 @@
                     "owner": "esecrpm",
                     "repo": "KAPE-Binary-Downloads",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:51:37.161Z"
                 },
                 {
                   "node_type": "item",
@@ -343,7 +364,8 @@
                     "owner": "acquiredsecurity",
                     "repo": "kapesaw",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:51:37.161Z"
                 },
                 {
                   "node_type": "item",
@@ -358,7 +380,8 @@
                     "owner": "dsplice",
                     "repo": "kape-mde",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:51:37.161Z"
                 },
                 {
                   "node_type": "item",
@@ -373,7 +396,8 @@
                     "owner": "robertstrom",
                     "repo": "KAPEConfigurationFIles",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:51:37.161Z"
                 }
               ],
               "description": null,
@@ -412,7 +436,8 @@
                             "owner": "EricZimmerman",
                             "repo": "evtx",
                             "stars": 372
-                          }
+                          },
+                          "first_seen": "2026-08-28T16:51:37.161Z"
                         }
                       ],
                       "repo_info": {
@@ -423,7 +448,8 @@
                         "owner": "EricZimmerman",
                         "repo": "evtx",
                         "stars": 372
-                      }
+                      },
+                      "first_seen": "2026-08-28T16:51:37.161Z"
                     }
                   ],
                   "repo_info": {
@@ -434,7 +460,8 @@
                     "owner": "EricZimmerman",
                     "repo": "evtx",
                     "stars": 372
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:51:37.161Z"
                 },
                 {
                   "node_type": "item",
@@ -449,7 +476,8 @@
                     "owner": "EricZimmerman",
                     "repo": "LECmd",
                     "stars": 347
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:51:37.161Z"
                 },
                 {
                   "node_type": "item",
@@ -464,7 +492,8 @@
                     "owner": "EricZimmerman",
                     "repo": "MFTECmd",
                     "stars": 333
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:51:37.161Z"
                 },
                 {
                   "node_type": "item",
@@ -479,7 +508,8 @@
                     "owner": "EricZimmerman",
                     "repo": "PECmd",
                     "stars": 305
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:51:37.161Z"
                 },
                 {
                   "node_type": "item",
@@ -504,7 +534,8 @@
                             "owner": "EricZimmerman",
                             "repo": "RECmd",
                             "stars": 182
-                          }
+                          },
+                          "first_seen": "2026-08-28T16:51:37.161Z"
                         }
                       ],
                       "repo_info": {
@@ -515,7 +546,8 @@
                         "owner": "EricZimmerman",
                         "repo": "RECmd",
                         "stars": 182
-                      }
+                      },
+                      "first_seen": "2026-08-28T16:51:37.161Z"
                     },
                     {
                       "node_type": "item",
@@ -535,7 +567,8 @@
                             "owner": "EricZimmerman",
                             "repo": "RegistryPlugins",
                             "stars": 86
-                          }
+                          },
+                          "first_seen": "2026-08-28T16:51:37.161Z"
                         }
                       ],
                       "repo_info": {
@@ -546,7 +579,8 @@
                         "owner": "EricZimmerman",
                         "repo": "RegistryPlugins",
                         "stars": 86
-                      }
+                      },
+                      "first_seen": "2026-08-28T16:51:37.161Z"
                     }
                   ],
                   "repo_info": {
@@ -557,7 +591,8 @@
                     "owner": "EricZimmerman",
                     "repo": "RECmd",
                     "stars": 182
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:51:37.161Z"
                 },
                 {
                   "node_type": "item",
@@ -572,7 +607,8 @@
                     "owner": "EricZimmerman",
                     "repo": "AmcacheParser",
                     "stars": 157
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:51:37.161Z"
                 },
                 {
                   "node_type": "item",
@@ -587,7 +623,8 @@
                     "owner": "EricZimmerman",
                     "repo": "bstrings",
                     "stars": 152
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:51:37.161Z"
                 },
                 {
                   "node_type": "item",
@@ -602,7 +639,8 @@
                     "owner": "EricZimmerman",
                     "repo": "AppCompatCacheParser",
                     "stars": 129
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:51:37.161Z"
                 },
                 {
                   "node_type": "item",
@@ -616,8 +654,9 @@
                     "last_commit": "2026-05-05T16:25:17Z",
                     "owner": "EricZimmerman",
                     "repo": "JLECmd",
-                    "stars": 122
-                  }
+                    "stars": 123
+                  },
+                  "first_seen": "2026-08-28T16:51:37.161Z"
                 },
                 {
                   "node_type": "item",
@@ -632,7 +671,8 @@
                     "owner": "EricZimmerman",
                     "repo": "RBCmd",
                     "stars": 62
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:51:37.161Z"
                 },
                 {
                   "node_type": "item",
@@ -657,7 +697,8 @@
                             "owner": "EricZimmerman",
                             "repo": "SQLECmd",
                             "stars": 61
-                          }
+                          },
+                          "first_seen": "2026-08-28T16:51:37.161Z"
                         }
                       ],
                       "repo_info": {
@@ -668,7 +709,8 @@
                         "owner": "EricZimmerman",
                         "repo": "SQLECmd",
                         "stars": 61
-                      }
+                      },
+                      "first_seen": "2026-08-28T16:51:37.161Z"
                     }
                   ],
                   "repo_info": {
@@ -679,7 +721,8 @@
                     "owner": "EricZimmerman",
                     "repo": "SQLECmd",
                     "stars": 61
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:51:37.161Z"
                 },
                 {
                   "node_type": "item",
@@ -694,7 +737,8 @@
                     "owner": "EricZimmerman",
                     "repo": "Srum",
                     "stars": 53
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:51:37.161Z"
                 },
                 {
                   "node_type": "item",
@@ -709,7 +753,8 @@
                     "owner": "EricZimmerman",
                     "repo": "RegistryExplorerBookmarks",
                     "stars": 45
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:51:37.161Z"
                 },
                 {
                   "node_type": "item",
@@ -724,7 +769,8 @@
                     "owner": "EricZimmerman",
                     "repo": "RecentFileCacheParser",
                     "stars": 31
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:51:37.161Z"
                 },
                 {
                   "node_type": "item",
@@ -739,7 +785,8 @@
                     "owner": "EricZimmerman",
                     "repo": "WxTCmd",
                     "stars": 26
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:51:37.161Z"
                 },
                 {
                   "node_type": "item",
@@ -754,7 +801,8 @@
                     "owner": "EricZimmerman",
                     "repo": "Sum",
                     "stars": 20
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:51:37.161Z"
                 }
               ],
               "description": null,
@@ -785,7 +833,8 @@
             "owner": "AndrewRathbun",
             "repo": "KAPE-EZToolsAncillaryUpdater",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-28T16:51:37.161Z"
         }
       ],
       "title": "Updating KAPE and EZ Tools"
@@ -806,14 +855,15 @@
             "owner": "AndrewRathbun",
             "repo": "DFIRMindMaps",
             "stars": 552
-          }
+          },
+          "first_seen": "2026-08-28T16:51:37.161Z"
         }
       ],
       "title": "Mind Maps"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T15:25:05.400Z",
+    "last_updated": "2026-08-28T16:51:37.161Z",
     "original_repository_info": {
       "archived": false,
       "id": 399053340,
