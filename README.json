@@ -102,7 +102,7 @@
                     "open_issues": 0,
                     "owner": "dwmetz",
                     "repo": "CyberPipe",
-                    "stars": 344,
+                    "stars": 345,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:37.161Z"
@@ -802,7 +802,7 @@
                             "open_issues": 1,
                             "owner": "EricZimmerman",
                             "repo": "RegistryPlugins",
-                            "stars": 86,
+                            "stars": 87,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T16:51:37.161Z"
@@ -819,7 +819,7 @@
                         "open_issues": 1,
                         "owner": "EricZimmerman",
                         "repo": "RegistryPlugins",
-                        "stars": 86,
+                        "stars": 87,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:51:37.161Z"
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:53:40.174Z",
+    "last_updated": "2026-08-29T11:18:36.290Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of KAPE-related resources",
