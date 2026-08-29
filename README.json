@@ -19,24 +19,42 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "This repository serves as a place for community created Targets and Modules for use with KAPE. ",
+                        "homepage": null,
                         "id": 152290823,
                         "language": null,
+                        "license": "MIT",
                         "last_commit": "2026-06-17T12:18:50Z",
+                        "open_issues": 20,
                         "owner": "EricZimmerman",
                         "repo": "KapeFiles",
-                        "stars": 870
+                        "stars": 870,
+                        "topics": [
+                          "gkape",
+                          "kape",
+                          "triage"
+                        ]
                       },
                       "first_seen": "2026-08-28T16:51:37.161Z"
                     }
                   ],
                   "repo_info": {
                     "archived": false,
+                    "description": "This repository serves as a place for community created Targets and Modules for use with KAPE. ",
+                    "homepage": null,
                     "id": 152290823,
                     "language": null,
+                    "license": "MIT",
                     "last_commit": "2026-06-17T12:18:50Z",
+                    "open_issues": 20,
                     "owner": "EricZimmerman",
                     "repo": "KapeFiles",
-                    "stars": 870
+                    "stars": 870,
+                    "topics": [
+                      "gkape",
+                      "kape",
+                      "triage"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:51:37.161Z"
                 },
@@ -47,12 +65,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Documentation repository",
+                    "homepage": "https://ericzimmerman.github.io/KapeDocs/",
                     "id": 187300385,
                     "language": "HTML",
+                    "license": "MIT",
                     "last_commit": "2026-02-11T17:31:14Z",
+                    "open_issues": 0,
                     "owner": "EricZimmerman",
                     "repo": "KapeDocs",
-                    "stars": 49
+                    "stars": 49,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:37.161Z"
                 }
@@ -70,12 +93,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An easy to use PowerShell script to collect memory and disk forensics for DFIR investigations.",
+                    "homepage": null,
                     "id": 329412171,
                     "language": "PowerShell",
+                    "license": "MIT",
                     "last_commit": "2025-12-03T13:11:25Z",
+                    "open_issues": 0,
                     "owner": "dwmetz",
                     "repo": "CyberPipe",
-                    "stars": 344
+                    "stars": 344,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:37.161Z"
                 },
@@ -86,12 +114,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Python 3 Script to parse out iTunes backups",
+                    "homepage": null,
                     "id": 180028504,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-10-16T22:49:46Z",
+                    "open_issues": 19,
                     "owner": "jfarley248",
                     "repo": "iTunes_Backup_Reader",
-                    "stars": 192
+                    "stars": 192,
+                    "topics": [
+                      "backups",
+                      "dfir",
+                      "forensics",
+                      "ios",
+                      "itunes",
+                      "itunes-backups",
+                      "kape",
+                      "mobile"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:51:37.161Z"
                 },
@@ -102,12 +144,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Invoke-Forensics provides PowerShell commands to simplify working with the forensic tools KAPE and RegRipper.",
+                    "homepage": null,
                     "id": 348381938,
                     "language": "PowerShell",
+                    "license": "MIT",
                     "last_commit": "2023-11-28T12:15:43Z",
+                    "open_issues": 0,
                     "owner": "swisscom",
                     "repo": "Invoke-Forensics",
-                    "stars": 118
+                    "stars": 118,
+                    "topics": [
+                      "forensics",
+                      "kape",
+                      "powershell-scripts",
+                      "regripper"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:51:37.161Z"
                 },
@@ -118,12 +170,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A series of PowerShell scripts to automate collection of forensic artefacts in most Incident Response environments",
+                    "homepage": null,
                     "id": 447665318,
                     "language": "PowerShell",
+                    "license": "MIT",
                     "last_commit": "2022-01-31T09:24:25Z",
+                    "open_issues": 0,
                     "owner": "hackjalstead",
                     "repo": "IRCP",
-                    "stars": 65
+                    "stars": 65,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:37.161Z"
                 },
@@ -134,12 +191,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Get-MiniTimeline - Triage Collection and Timeline Generation w/ KAPE",
+                    "homepage": "https://lethal-forensics.com",
                     "id": 223596794,
                     "language": "PowerShell",
+                    "license": "MIT",
                     "last_commit": "2024-05-25T07:18:54Z",
+                    "open_issues": 0,
                     "owner": "evild3ad",
                     "repo": "Get-MiniTimeline",
-                    "stars": 35
+                    "stars": 35,
+                    "topics": [
+                      "dfir",
+                      "digital-forensics",
+                      "incident-response",
+                      "kape",
+                      "powershell",
+                      "timeline"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:51:37.161Z"
                 },
@@ -150,12 +219,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Parses KAPE module files and downloads binaries referenced by BinaryURL",
+                    "homepage": null,
                     "id": 182198835,
                     "language": "PowerShell",
+                    "license": "MIT",
                     "last_commit": "2019-10-02T18:39:15Z",
+                    "open_issues": 0,
                     "owner": "grayfold3d",
                     "repo": "Get-KapeModuleBinaries",
-                    "stars": 18
+                    "stars": 18,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:37.161Z"
                 },
@@ -166,12 +240,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A repository of output using KAPE (!EZParser Module) for various publicly available forensic images!",
+                    "homepage": null,
                     "id": 401111287,
                     "language": null,
+                    "license": "MIT",
                     "last_commit": "2024-08-31T04:22:08Z",
+                    "open_issues": 0,
                     "owner": "AndrewRathbun",
                     "repo": "ForensicImageKAPEOutput",
-                    "stars": 17
+                    "stars": 17,
+                    "topics": [
+                      "csv",
+                      "dfir",
+                      "digitalforensics",
+                      "kape",
+                      "training"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:51:37.161Z"
                 },
@@ -182,12 +267,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Automate forensic traige package collection and evidence parsing with KAPE and Crowdstrike",
+                    "homepage": null,
                     "id": 466235783,
                     "language": "PowerShell",
+                    "license": null,
                     "last_commit": "2022-03-05T00:47:17Z",
+                    "open_issues": 0,
                     "owner": "Snausage0x45",
                     "repo": "KapeStrike",
-                    "stars": 15
+                    "stars": 15,
+                    "topics": [
+                      "digital-forensics-incident-response"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:51:37.161Z"
                 },
@@ -198,12 +290,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Tools and Binaries to use with KAPE",
+                    "homepage": null,
                     "id": 201533454,
                     "language": null,
+                    "license": null,
                     "last_commit": "2019-08-13T04:42:42Z",
+                    "open_issues": 1,
                     "owner": "mdegrazia",
                     "repo": "KAPE_Tools",
-                    "stars": 13
+                    "stars": 13,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:37.161Z"
                 },
@@ -214,12 +311,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 295282114,
                     "language": null,
+                    "license": null,
                     "last_commit": "2021-03-22T16:28:49Z",
+                    "open_issues": 0,
                     "owner": "mark-hallman",
                     "repo": "kape-remote-collections",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:37.161Z"
                 },
@@ -230,12 +332,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Remote KAPE collection using powershell",
+                    "homepage": null,
                     "id": 201285742,
                     "language": "PowerShell",
+                    "license": "MIT",
                     "last_commit": "2019-08-08T15:34:43Z",
+                    "open_issues": 0,
                     "owner": "keyboardcrunch",
                     "repo": "Invoke-Kape",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": [
+                      "dfir",
+                      "forensics",
+                      "kape"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:51:37.161Z"
                 },
@@ -246,12 +357,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A powershell tool that automate the remote forensic evidence adquisitions (triage) from Remote windows machines, using KAPE tool.",
+                    "homepage": null,
                     "id": 354057982,
                     "language": "PowerShell",
+                    "license": "GPL-3.0",
                     "last_commit": "2021-05-28T19:45:46Z",
+                    "open_issues": 0,
                     "owner": "Richard1611",
                     "repo": "RemoteKapeTriage",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": [
+                      "cybersecurity",
+                      "forensic-analysis",
+                      "forensics",
+                      "incident-response",
+                      "information-gathering",
+                      "information-security",
+                      "kape",
+                      "powershell",
+                      "powershell-script",
+                      "threathunting",
+                      "triage"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:51:37.161Z"
                 },
@@ -262,12 +390,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Slides, scripts, notes, link, etc from my  2019 DFRWS KAPE Workshop",
+                    "homepage": null,
                     "id": 193730579,
                     "language": null,
+                    "license": null,
                     "last_commit": "2019-07-14T19:41:50Z",
+                    "open_issues": 0,
                     "owner": "mark-hallman",
                     "repo": "DFRWS-2019-KAPE-Workshop",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:37.161Z"
                 },
@@ -278,12 +411,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Repo for code, techniques, ideas and questions about implementing KAPE at Scale",
+                    "homepage": null,
                     "id": 207338262,
                     "language": null,
+                    "license": null,
                     "last_commit": "2019-10-15T11:51:45Z",
+                    "open_issues": 0,
                     "owner": "mark-hallman",
                     "repo": "kape-at-scale",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:37.161Z"
                 },
@@ -294,12 +432,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 238717045,
                     "language": "PowerShell",
+                    "license": "MIT",
                     "last_commit": "2020-06-23T15:56:14Z",
+                    "open_issues": 1,
                     "owner": "Beercow",
                     "repo": "KAPE-Automation",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:37.161Z"
                 },
@@ -310,12 +453,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Automate the process of triaging, processing, sigma and yara scanning",
+                    "homepage": null,
                     "id": 666916403,
                     "language": "PowerShell",
+                    "license": null,
                     "last_commit": "2023-10-27T07:00:31Z",
+                    "open_issues": 0,
                     "owner": "XCID11",
                     "repo": "Heed",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:37.161Z"
                 },
@@ -326,12 +474,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This is a project for automating your KAPE process. Currently, this project takes KAPE .zips found in blob storage, turns the artefacts into super timelines, then uploads the .csv back to Blob. You can optionally connect blob as a data source to Azure Data Explorer to then do forensics via KQL.",
+                    "homepage": null,
                     "id": 718148455,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-03-27T11:12:06Z",
+                    "open_issues": 0,
                     "owner": "mikecybersec",
                     "repo": "Kape2ADX",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:37.161Z"
                 },
@@ -342,12 +495,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Script to download binary tools for KAPE modules",
+                    "homepage": null,
                     "id": 177062669,
                     "language": "PowerShell",
+                    "license": null,
                     "last_commit": "2019-09-12T17:26:35Z",
+                    "open_issues": 0,
                     "owner": "esecrpm",
                     "repo": "KAPE-Binary-Downloads",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:37.161Z"
                 },
@@ -358,12 +516,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "**KapeSaw** is a modular PowerShell script for automated forensic collection and timelines",
+                    "homepage": null,
                     "id": 953200718,
                     "language": "PowerShell",
+                    "license": null,
                     "last_commit": "2025-04-21T14:28:50Z",
+                    "open_issues": 0,
                     "owner": "acquiredsecurity",
                     "repo": "kapesaw",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:37.161Z"
                 },
@@ -374,12 +537,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 937379334,
                     "language": "PowerShell",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-01-16T18:14:31Z",
+                    "open_issues": 0,
                     "owner": "dsplice",
                     "repo": "kape-mde",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:37.161Z"
                 },
@@ -390,12 +558,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 374200034,
                     "language": "PowerShell",
+                    "license": "MIT",
                     "last_commit": "2022-06-19T14:38:23Z",
+                    "open_issues": 1,
                     "owner": "robertstrom",
                     "repo": "KAPEConfigurationFIles",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:37.161Z"
                 }
@@ -430,36 +603,66 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "C# based evtx parser with lots of extras",
+                            "homepage": null,
                             "id": 176131345,
                             "language": "C#",
+                            "license": "MIT",
                             "last_commit": "2026-06-17T13:28:37Z",
+                            "open_issues": 7,
                             "owner": "EricZimmerman",
                             "repo": "evtx",
-                            "stars": 372
+                            "stars": 372,
+                            "topics": [
+                              "event",
+                              "eventlog",
+                              "evtx",
+                              "windows"
+                            ]
                           },
                           "first_seen": "2026-08-28T16:51:37.161Z"
                         }
                       ],
                       "repo_info": {
                         "archived": false,
+                        "description": "C# based evtx parser with lots of extras",
+                        "homepage": null,
                         "id": 176131345,
                         "language": "C#",
+                        "license": "MIT",
                         "last_commit": "2026-06-17T13:28:37Z",
+                        "open_issues": 7,
                         "owner": "EricZimmerman",
                         "repo": "evtx",
-                        "stars": 372
+                        "stars": 372,
+                        "topics": [
+                          "event",
+                          "eventlog",
+                          "evtx",
+                          "windows"
+                        ]
                       },
                       "first_seen": "2026-08-28T16:51:37.161Z"
                     }
                   ],
                   "repo_info": {
                     "archived": false,
+                    "description": "C# based evtx parser with lots of extras",
+                    "homepage": null,
                     "id": 176131345,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2026-06-17T13:28:37Z",
+                    "open_issues": 7,
                     "owner": "EricZimmerman",
                     "repo": "evtx",
-                    "stars": 372
+                    "stars": 372,
+                    "topics": [
+                      "event",
+                      "eventlog",
+                      "evtx",
+                      "windows"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:51:37.161Z"
                 },
@@ -470,12 +673,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Lnk Explorer Command line edition!!",
+                    "homepage": null,
                     "id": 51476225,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2026-05-13T19:01:43Z",
+                    "open_issues": 2,
                     "owner": "EricZimmerman",
                     "repo": "LECmd",
-                    "stars": 347
+                    "stars": 347,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:37.161Z"
                 },
@@ -486,12 +694,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Parses $MFT from NTFS file systems",
+                    "homepage": null,
                     "id": 136507167,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2026-05-10T13:45:26Z",
+                    "open_issues": 6,
                     "owner": "EricZimmerman",
                     "repo": "MFTECmd",
-                    "stars": 333
+                    "stars": 333,
+                    "topics": [
+                      "forensics",
+                      "mft",
+                      "ntfs"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:51:37.161Z"
                 },
@@ -502,12 +719,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Prefetch Explorer Command Line",
+                    "homepage": null,
                     "id": 50198821,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2026-04-29T17:48:41Z",
+                    "open_issues": 1,
                     "owner": "EricZimmerman",
                     "repo": "PECmd",
-                    "stars": 305
+                    "stars": 305,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:37.161Z"
                 },
@@ -528,24 +750,34 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "Command line access to the Registry",
+                            "homepage": null,
                             "id": 36804798,
                             "language": "Rebol",
+                            "license": "MIT",
                             "last_commit": "2026-05-04T17:12:59Z",
+                            "open_issues": 1,
                             "owner": "EricZimmerman",
                             "repo": "RECmd",
-                            "stars": 182
+                            "stars": 182,
+                            "topics": []
                           },
                           "first_seen": "2026-08-28T16:51:37.161Z"
                         }
                       ],
                       "repo_info": {
                         "archived": false,
+                        "description": "Command line access to the Registry",
+                        "homepage": null,
                         "id": 36804798,
                         "language": "Rebol",
+                        "license": "MIT",
                         "last_commit": "2026-05-04T17:12:59Z",
+                        "open_issues": 1,
                         "owner": "EricZimmerman",
                         "repo": "RECmd",
-                        "stars": 182
+                        "stars": 182,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T16:51:37.161Z"
                     },
@@ -561,36 +793,51 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": null,
+                            "homepage": null,
                             "id": 79587742,
                             "language": "C#",
+                            "license": "MIT",
                             "last_commit": "2026-04-26T17:40:58Z",
+                            "open_issues": 1,
                             "owner": "EricZimmerman",
                             "repo": "RegistryPlugins",
-                            "stars": 86
+                            "stars": 86,
+                            "topics": []
                           },
                           "first_seen": "2026-08-28T16:51:37.161Z"
                         }
                       ],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 79587742,
                         "language": "C#",
+                        "license": "MIT",
                         "last_commit": "2026-04-26T17:40:58Z",
+                        "open_issues": 1,
                         "owner": "EricZimmerman",
                         "repo": "RegistryPlugins",
-                        "stars": 86
+                        "stars": 86,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T16:51:37.161Z"
                     }
                   ],
                   "repo_info": {
                     "archived": false,
+                    "description": "Command line access to the Registry",
+                    "homepage": null,
                     "id": 36804798,
                     "language": "Rebol",
+                    "license": "MIT",
                     "last_commit": "2026-05-04T17:12:59Z",
+                    "open_issues": 1,
                     "owner": "EricZimmerman",
                     "repo": "RECmd",
-                    "stars": 182
+                    "stars": 182,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:37.161Z"
                 },
@@ -601,12 +848,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Parses amcache.hve files, but with a twist!",
+                    "homepage": null,
                     "id": 39974474,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2026-06-17T12:23:17Z",
+                    "open_issues": 0,
                     "owner": "EricZimmerman",
                     "repo": "AmcacheParser",
-                    "stars": 157
+                    "stars": 157,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:37.161Z"
                 },
@@ -617,12 +869,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A better strings utility!",
+                    "homepage": null,
                     "id": 38929387,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2026-04-26T16:09:16Z",
+                    "open_issues": 0,
                     "owner": "EricZimmerman",
                     "repo": "bstrings",
-                    "stars": 152
+                    "stars": 152,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:37.161Z"
                 },
@@ -633,12 +890,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "AppCompatCache (shimcache) parser. Supports Windows 7 (x86 and x64), Windows 8.x, and Windows 10, and Windows 11",
+                    "homepage": null,
                     "id": 34874266,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2026-05-03T21:25:28Z",
+                    "open_issues": 0,
                     "owner": "EricZimmerman",
                     "repo": "AppCompatCacheParser",
-                    "stars": 129
+                    "stars": 129,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:37.161Z"
                 },
@@ -649,12 +911,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Automatic and Custom Destinations jump list parser with Windows 10 support",
+                    "homepage": null,
                     "id": 53182348,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2026-05-05T16:25:17Z",
+                    "open_issues": 2,
                     "owner": "EricZimmerman",
                     "repo": "JLECmd",
-                    "stars": 123
+                    "stars": 123,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:37.161Z"
                 },
@@ -665,12 +932,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Recycle bin artifact parser",
+                    "homepage": null,
                     "id": 158273172,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2026-04-28T15:20:09Z",
+                    "open_issues": 0,
                     "owner": "EricZimmerman",
                     "repo": "RBCmd",
-                    "stars": 62
+                    "stars": 62,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:37.161Z"
                 },
@@ -691,36 +963,51 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": null,
+                            "homepage": null,
                             "id": 244445814,
                             "language": "C#",
+                            "license": "MIT",
                             "last_commit": "2026-04-28T14:39:57Z",
+                            "open_issues": 4,
                             "owner": "EricZimmerman",
                             "repo": "SQLECmd",
-                            "stars": 61
+                            "stars": 61,
+                            "topics": []
                           },
                           "first_seen": "2026-08-28T16:51:37.161Z"
                         }
                       ],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 244445814,
                         "language": "C#",
+                        "license": "MIT",
                         "last_commit": "2026-04-28T14:39:57Z",
+                        "open_issues": 4,
                         "owner": "EricZimmerman",
                         "repo": "SQLECmd",
-                        "stars": 61
+                        "stars": 61,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T16:51:37.161Z"
                     }
                   ],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 244445814,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2026-04-28T14:39:57Z",
+                    "open_issues": 4,
                     "owner": "EricZimmerman",
                     "repo": "SQLECmd",
-                    "stars": 61
+                    "stars": 61,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:37.161Z"
                 },
@@ -731,12 +1018,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 323506559,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2026-05-01T20:52:00Z",
+                    "open_issues": 3,
                     "owner": "EricZimmerman",
                     "repo": "Srum",
-                    "stars": 53
+                    "stars": 53,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:37.161Z"
                 },
@@ -747,12 +1039,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Registry Explorer bookmark definitions",
+                    "homepage": null,
                     "id": 30658808,
                     "language": null,
+                    "license": "MIT",
                     "last_commit": "2024-12-19T12:55:44Z",
+                    "open_issues": 0,
                     "owner": "EricZimmerman",
                     "repo": "RegistryExplorerBookmarks",
-                    "stars": 45
+                    "stars": 45,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:37.161Z"
                 },
@@ -763,12 +1060,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Parses RecentFileCacheParser.bcf files",
+                    "homepage": null,
                     "id": 118168602,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2026-04-30T20:24:43Z",
+                    "open_issues": 0,
                     "owner": "EricZimmerman",
                     "repo": "RecentFileCacheParser",
-                    "stars": 31
+                    "stars": 31,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:37.161Z"
                 },
@@ -779,12 +1081,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 132497123,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2026-04-28T19:45:45Z",
+                    "open_issues": 3,
                     "owner": "EricZimmerman",
                     "repo": "WxTCmd",
-                    "stars": 26
+                    "stars": 26,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:37.161Z"
                 },
@@ -795,12 +1102,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 340423111,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2026-04-26T21:11:00Z",
+                    "open_issues": 0,
                     "owner": "EricZimmerman",
                     "repo": "Sum",
-                    "stars": 20
+                    "stars": 20,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:37.161Z"
                 }
@@ -827,12 +1139,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A script that updates KAPE (using Get-KAPEUpdate.ps1) as well as EZ Tools (within .\\KAPE\\Modules\\bin) and the ancillary files that enhance the output of those tools",
+            "homepage": null,
             "id": 383231863,
             "language": "PowerShell",
+            "license": "MIT",
             "last_commit": "2025-06-24T13:12:39Z",
+            "open_issues": 2,
             "owner": "AndrewRathbun",
             "repo": "KAPE-EZToolsAncillaryUpdater",
-            "stars": 61
+            "stars": 61,
+            "topics": [
+              "dfir",
+              "digitalforensics",
+              "eztools",
+              "kape",
+              "powershell",
+              "powershell-script"
+            ]
           },
           "first_seen": "2026-08-28T16:51:37.161Z"
         }
@@ -849,12 +1173,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A repository of DFIR-related Mind Maps geared towards the visual learners!",
+            "homepage": null,
             "id": 400786822,
             "language": null,
+            "license": "MIT",
             "last_commit": "2022-09-02T11:53:46Z",
+            "open_issues": 0,
             "owner": "AndrewRathbun",
             "repo": "DFIRMindMaps",
-            "stars": 552
+            "stars": 552,
+            "topics": [
+              "dfir",
+              "digitalforensics",
+              "eztools",
+              "kape",
+              "mindmaps",
+              "ntfs",
+              "rdp",
+              "tcpdump"
+            ]
           },
           "first_seen": "2026-08-28T16:51:37.161Z"
         }
@@ -863,15 +1201,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T16:51:37.161Z",
+    "last_updated": "2026-08-29T04:53:40.174Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of KAPE-related resources",
+      "homepage": null,
       "id": 399053340,
       "language": null,
+      "license": "MIT",
       "last_commit": "2025-05-01T02:35:37Z",
+      "open_issues": 0,
       "owner": "AndrewRathbun",
       "repo": "Awesome-KAPE",
-      "stars": 193
+      "stars": 193,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "dfir",
+        "digitalforensics",
+        "eztools",
+        "kape"
+      ]
     },
     "original_repository_sha": "3925fcbd2aa6fa8b38cd30522437f27937604e57",
     "enhanced_repository": "enhansome/enhansome-Awesome-KAPE",
