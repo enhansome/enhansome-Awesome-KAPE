@@ -28,7 +28,7 @@
                         "open_issues": 20,
                         "owner": "EricZimmerman",
                         "repo": "KapeFiles",
-                        "stars": 870,
+                        "stars": 871,
                         "topics": [
                           "gkape",
                           "kape",
@@ -49,7 +49,7 @@
                     "open_issues": 20,
                     "owner": "EricZimmerman",
                     "repo": "KapeFiles",
-                    "stars": 870,
+                    "stars": 871,
                     "topics": [
                       "gkape",
                       "kape",
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T10:04:08.898Z",
+    "last_updated": "2026-08-31T11:04:34.612Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of KAPE-related resources",
