@@ -84,7 +84,7 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
     * [RECmd Kroll Batch GitHub Project](https://github.com/EricZimmerman/RECmd/projects/1) ⭐ 182 | 🐛 1 | 🌐 Rebol | 📅 2026-05-04
   * Also, [RegistryPlugins](https://github.com/EricZimmerman/RegistryPlugins) ⭐ 87 | 🐛 1 | 🌐 C# | 📅 2026-04-26 which are used by RECmd (and Registry Explorer) to generate more efficient/actionable output
     * [Registry Explorer Plugins GitHub Project](https://github.com/EricZimmerman/RegistryPlugins/projects/1) ⭐ 87 | 🐛 1 | 🌐 C# | 📅 2026-04-26
-* [AmcacheParser](https://github.com/EricZimmerman/AmcacheParser) ⭐ 157 | 🐛 0 | 🌐 C# | 📅 2026-06-17
+* [AmcacheParser](https://github.com/EricZimmerman/AmcacheParser) ⭐ 158 | 🐛 0 | 🌐 C# | 📅 2026-06-17
 * [bstrings](https://github.com/EricZimmerman/bstrings) ⭐ 152 | 🐛 0 | 🌐 C# | 📅 2026-04-26
 * [AppCompatCacheParser](https://github.com/EricZimmerman/AppCompatCacheParser) ⭐ 129 | 🐛 0 | 🌐 C# | 📅 2026-05-03
 * [JLECmd](https://github.com/EricZimmerman/JLECmd) ⭐ 123 | 🐛 2 | 🌐 C# | 📅 2026-05-05
@@ -195,4 +195,4 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
