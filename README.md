@@ -39,7 +39,7 @@ In line with other Awesome GitHub repos, Awesome-KAPE serves as a curated list o
 
 #### Community KAPE-related GitHub repositories:
 
-* [CyberPipe](https://github.com/dwmetz/CyberPipe) ⭐ 345 | 🐛 0 | 🌐 PowerShell | 📅 2025-12-03
+* [CyberPipe](https://github.com/dwmetz/CyberPipe) ⭐ 346 | 🐛 0 | 🌐 PowerShell | 📅 2025-12-03
 * [iTunes\_Backup\_Reader](https://github.com/jfarley248/iTunes_Backup_Reader) ⭐ 192 | 🐛 19 | 🌐 Python | 📅 2023-10-16
 * [Invoke-Forensics](https://github.com/swisscom/Invoke-Forensics) ⭐ 118 | 🐛 0 | 🌐 PowerShell | 📅 2023-11-28
 * [IRCP](https://github.com/hackjalstead/IRCP) ⭐ 65 | 🐛 0 | 🌐 PowerShell | 📅 2022-01-31
@@ -195,4 +195,4 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._

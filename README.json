@@ -102,7 +102,7 @@
                     "open_issues": 0,
                     "owner": "dwmetz",
                     "repo": "CyberPipe",
-                    "stars": 345,
+                    "stars": 346,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:37.161Z"
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T08:59:35.689Z",
+    "last_updated": "2026-09-05T08:30:55.729Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of KAPE-related resources",
