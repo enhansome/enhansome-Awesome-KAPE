@@ -33,8 +33,8 @@ In line with other Awesome GitHub repos, Awesome-KAPE serves as a curated list o
 
 #### Official GitHub repositories:
 
-* [KapeFiles](https://github.com/EricZimmerman/KapeFiles) ⭐ 872 | 🐛 20 | 📅 2026-09-03 - This repository contains all the Targets and Modules utilized by KAPE to collect and process forensic artifacts
-  * [KapeFiles GitHub Project](https://github.com/EricZimmerman/KapeFiles/projects/1) ⭐ 872 | 🐛 20 | 📅 2026-09-03
+* [KapeFiles](https://github.com/EricZimmerman/KapeFiles) ⭐ 873 | 🐛 21 | 📅 2026-09-03 - This repository contains all the Targets and Modules utilized by KAPE to collect and process forensic artifacts
+  * [KapeFiles GitHub Project](https://github.com/EricZimmerman/KapeFiles/projects/1) ⭐ 873 | 🐛 21 | 📅 2026-09-03
 * [KapeDocs](https://github.com/EricZimmerman/KapeDocs) ⭐ 49 | 🐛 0 | 🌐 HTML | 📅 2026-02-11 - This repository serves as the backend for KAPE's Official Documentation, linked [here](https://ericzimmerman.github.io/KapeDocs/)
 
 #### Community KAPE-related GitHub repositories:
@@ -84,7 +84,7 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
     * [RECmd Kroll Batch GitHub Project](https://github.com/EricZimmerman/RECmd/projects/1) ⭐ 182 | 🐛 1 | 🌐 Rebol | 📅 2026-05-04
   * Also, [RegistryPlugins](https://github.com/EricZimmerman/RegistryPlugins) ⭐ 87 | 🐛 1 | 🌐 C# | 📅 2026-04-26 which are used by RECmd (and Registry Explorer) to generate more efficient/actionable output
     * [Registry Explorer Plugins GitHub Project](https://github.com/EricZimmerman/RegistryPlugins/projects/1) ⭐ 87 | 🐛 1 | 🌐 C# | 📅 2026-04-26
-* [AmcacheParser](https://github.com/EricZimmerman/AmcacheParser) ⭐ 158 | 🐛 0 | 🌐 C# | 📅 2026-06-17
+* [AmcacheParser](https://github.com/EricZimmerman/AmcacheParser) ⭐ 159 | 🐛 0 | 🌐 C# | 📅 2026-06-17
 * [bstrings](https://github.com/EricZimmerman/bstrings) ⭐ 152 | 🐛 0 | 🌐 C# | 📅 2026-04-26
 * [AppCompatCacheParser](https://github.com/EricZimmerman/AppCompatCacheParser) ⭐ 129 | 🐛 0 | 🌐 C# | 📅 2026-05-03
 * [JLECmd](https://github.com/EricZimmerman/JLECmd) ⭐ 123 | 🐛 2 | 🌐 C# | 📅 2026-05-05
@@ -195,4 +195,4 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
