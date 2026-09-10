@@ -612,7 +612,7 @@
                             "open_issues": 7,
                             "owner": "EricZimmerman",
                             "repo": "evtx",
-                            "stars": 372,
+                            "stars": 373,
                             "topics": [
                               "event",
                               "eventlog",
@@ -634,7 +634,7 @@
                         "open_issues": 7,
                         "owner": "EricZimmerman",
                         "repo": "evtx",
-                        "stars": 372,
+                        "stars": 373,
                         "topics": [
                           "event",
                           "eventlog",
@@ -656,7 +656,7 @@
                     "open_issues": 7,
                     "owner": "EricZimmerman",
                     "repo": "evtx",
-                    "stars": 372,
+                    "stars": 373,
                     "topics": [
                       "event",
                       "eventlog",
@@ -759,7 +759,7 @@
                             "open_issues": 1,
                             "owner": "EricZimmerman",
                             "repo": "RECmd",
-                            "stars": 182,
+                            "stars": 183,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T16:51:37.161Z"
@@ -776,7 +776,7 @@
                         "open_issues": 1,
                         "owner": "EricZimmerman",
                         "repo": "RECmd",
-                        "stars": 182,
+                        "stars": 183,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:51:37.161Z"
@@ -836,7 +836,7 @@
                     "open_issues": 1,
                     "owner": "EricZimmerman",
                     "repo": "RECmd",
-                    "stars": 182,
+                    "stars": 183,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:37.161Z"
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T09:06:10.043Z",
+    "last_updated": "2026-09-10T09:05:10.582Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of KAPE-related resources",
