@@ -24,8 +24,8 @@
                         "id": 152290823,
                         "language": null,
                         "license": "MIT",
-                        "last_commit": "2026-09-11T13:57:24Z",
-                        "open_issues": 20,
+                        "last_commit": "2026-09-15T00:27:42Z",
+                        "open_issues": 19,
                         "owner": "EricZimmerman",
                         "repo": "KapeFiles",
                         "stars": 874,
@@ -45,8 +45,8 @@
                     "id": 152290823,
                     "language": null,
                     "license": "MIT",
-                    "last_commit": "2026-09-11T13:57:24Z",
-                    "open_issues": 20,
+                    "last_commit": "2026-09-15T00:27:42Z",
+                    "open_issues": 19,
                     "owner": "EricZimmerman",
                     "repo": "KapeFiles",
                     "stars": 874,
@@ -1182,7 +1182,7 @@
             "open_issues": 0,
             "owner": "AndrewRathbun",
             "repo": "DFIRMindMaps",
-            "stars": 552,
+            "stars": 553,
             "topics": [
               "dfir",
               "digitalforensics",
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T10:04:26.530Z",
+    "last_updated": "2026-09-15T09:33:22.406Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of KAPE-related resources",
