@@ -33,8 +33,8 @@ In line with other Awesome GitHub repos, Awesome-KAPE serves as a curated list o
 
 #### Official GitHub repositories:
 
-* [KapeFiles](https://github.com/EricZimmerman/KapeFiles) ⭐ 875 | 🐛 18 | 📅 2026-09-17 - This repository contains all the Targets and Modules utilized by KAPE to collect and process forensic artifacts
-  * [KapeFiles GitHub Project](https://github.com/EricZimmerman/KapeFiles/projects/1) ⭐ 875 | 🐛 18 | 📅 2026-09-17
+* [KapeFiles](https://github.com/EricZimmerman/KapeFiles) ⭐ 875 | 🐛 18 | 📅 2026-09-18 - This repository contains all the Targets and Modules utilized by KAPE to collect and process forensic artifacts
+  * [KapeFiles GitHub Project](https://github.com/EricZimmerman/KapeFiles/projects/1) ⭐ 875 | 🐛 18 | 📅 2026-09-18
 * [KapeDocs](https://github.com/EricZimmerman/KapeDocs) ⭐ 49 | 🐛 0 | 🌐 HTML | 📅 2026-02-11 - This repository serves as the backend for KAPE's Official Documentation, linked [here](https://ericzimmerman.github.io/KapeDocs/)
 
 #### Community KAPE-related GitHub repositories:
@@ -100,7 +100,7 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
 
 ## Updating KAPE and EZ Tools
 
-* [KAPE-EZToolsAncillaryUpdater](https://github.com/rathbuna/KAPE-EZToolsAncillaryUpdater) ⭐ 61 | 🐛 2 | 🌐 PowerShell | 📅 2025-06-24 - Keep KAPE and all tools located within `.\KAPE\Modules\bin\*` updated with a single PowerShell script!
+* [KAPE-EZToolsAncillaryUpdater](https://github.com/rathbuna/KAPE-EZToolsAncillaryUpdater) ⭐ 62 | 🐛 2 | 🌐 PowerShell | 📅 2025-06-24 - Keep KAPE and all tools located within `.\KAPE\Modules\bin\*` updated with a single PowerShell script!
 
 ## Resources
 
@@ -195,4 +195,4 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._

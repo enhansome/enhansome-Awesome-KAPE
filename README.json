@@ -24,7 +24,7 @@
                         "id": 152290823,
                         "language": null,
                         "license": "MIT",
-                        "last_commit": "2026-09-17T01:45:49Z",
+                        "last_commit": "2026-09-18T01:49:36Z",
                         "open_issues": 18,
                         "owner": "EricZimmerman",
                         "repo": "KapeFiles",
@@ -45,7 +45,7 @@
                     "id": 152290823,
                     "language": null,
                     "license": "MIT",
-                    "last_commit": "2026-09-17T01:45:49Z",
+                    "last_commit": "2026-09-18T01:49:36Z",
                     "open_issues": 18,
                     "owner": "EricZimmerman",
                     "repo": "KapeFiles",
@@ -1148,7 +1148,7 @@
             "open_issues": 2,
             "owner": "AndrewRathbun",
             "repo": "KAPE-EZToolsAncillaryUpdater",
-            "stars": 61,
+            "stars": 62,
             "topics": [
               "dfir",
               "digitalforensics",
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T09:36:37.254Z",
+    "last_updated": "2026-09-18T09:08:35.776Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of KAPE-related resources",
