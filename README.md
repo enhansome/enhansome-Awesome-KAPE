@@ -77,7 +77,7 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
   * Namely, [Maps](https://github.com/EricZimmerman/evtx/tree/master/evtx/Maps) ⭐ 373 | 🐛 7 | 🌐 C# | 📅 2026-06-17 where EvtxECmd Maps are located
     * [EvtxECmd GitHub Project](https://github.com/EricZimmerman/evtx/projects/1) ⭐ 373 | 🐛 7 | 🌐 C# | 📅 2026-06-17
 * [LECmd](https://github.com/EricZimmerman/LECmd) ⭐ 346 | 🐛 3 | 🌐 C# | 📅 2026-05-13
-* [MFTECmd](https://github.com/EricZimmerman/MFTECmd) ⭐ 336 | 🐛 6 | 🌐 C# | 📅 2026-05-10
+* [MFTECmd](https://github.com/EricZimmerman/MFTECmd) ⭐ 337 | 🐛 6 | 🌐 C# | 📅 2026-05-10
 * [PECmd](https://github.com/EricZimmerman/PECmd) ⭐ 306 | 🐛 1 | 🌐 C# | 📅 2026-09-02
 * [RECmd](https://github.com/EricZimmerman/RECmd) ⭐ 184 | 🐛 1 | 🌐 Rebol | 📅 2026-05-04
   * Namely, [BatchExamples](https://github.com/EricZimmerman/RECmd/tree/master/BatchExamples) ⭐ 184 | 🐛 1 | 🌐 Rebol | 📅 2026-05-04 where Batch Files are
@@ -92,7 +92,7 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
 * [SQLECmd](https://github.com/EricZimmerman/SQLECmd) ⭐ 61 | 🐛 4 | 🌐 C# | 📅 2026-04-28
   * Namely, [Maps](https://github.com/EricZimmerman/SQLECmd/tree/master/SQLMap/Maps) ⭐ 61 | 🐛 4 | 🌐 C# | 📅 2026-04-28 where SQLECmd Maps are located
     * [SQLECmd GitHub Project](https://github.com/EricZimmerman/SQLECmd/projects/1) ⭐ 61 | 🐛 4 | 🌐 C# | 📅 2026-04-28
-* [SrumECmd](https://github.com/EricZimmerman/Srum) ⭐ 54 | 🐛 3 | 🌐 C# | 📅 2026-05-01
+* [SrumECmd](https://github.com/EricZimmerman/Srum) ⭐ 55 | 🐛 3 | 🌐 C# | 📅 2026-05-01
 * [Registry Explorer Bookmarks GitHub Project](https://github.com/EricZimmerman/RegistryExplorerBookmarks/projects/1) ⭐ 45 | 🐛 0 | 📅 2024-12-19 are used only by Registry Explorer
 * [RecentFileCacheParser](https://github.com/EricZimmerman/RecentFileCacheParser) ⭐ 31 | 🐛 0 | 🌐 C# | 📅 2026-04-30
 * [WxTCmd](https://github.com/EricZimmerman/WxTCmd) ⭐ 26 | 🐛 3 | 🌐 C# | 📅 2026-04-28
@@ -195,4 +195,4 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
