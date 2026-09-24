@@ -76,7 +76,7 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
 * [EvtxECmd](https://github.com/EricZimmerman/evtx) ⭐ 373 | 🐛 7 | 🌐 C# | 📅 2026-06-17
   * Namely, [Maps](https://github.com/EricZimmerman/evtx/tree/master/evtx/Maps) ⭐ 373 | 🐛 7 | 🌐 C# | 📅 2026-06-17 where EvtxECmd Maps are located
     * [EvtxECmd GitHub Project](https://github.com/EricZimmerman/evtx/projects/1) ⭐ 373 | 🐛 7 | 🌐 C# | 📅 2026-06-17
-* [LECmd](https://github.com/EricZimmerman/LECmd) ⭐ 346 | 🐛 3 | 🌐 C# | 📅 2026-05-13
+* [LECmd](https://github.com/EricZimmerman/LECmd) ⭐ 347 | 🐛 3 | 🌐 C# | 📅 2026-05-13
 * [MFTECmd](https://github.com/EricZimmerman/MFTECmd) ⭐ 336 | 🐛 6 | 🌐 C# | 📅 2026-05-10
 * [PECmd](https://github.com/EricZimmerman/PECmd) ⭐ 306 | 🐛 1 | 🌐 C# | 📅 2026-09-02
 * [RECmd](https://github.com/EricZimmerman/RECmd) ⭐ 184 | 🐛 1 | 🌐 Rebol | 📅 2026-05-04
@@ -88,7 +88,7 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
 * [bstrings](https://github.com/EricZimmerman/bstrings) ⭐ 152 | 🐛 0 | 🌐 C# | 📅 2026-04-26
 * [AppCompatCacheParser](https://github.com/EricZimmerman/AppCompatCacheParser) ⭐ 129 | 🐛 0 | 🌐 C# | 📅 2026-05-03
 * [JLECmd](https://github.com/EricZimmerman/JLECmd) ⭐ 123 | 🐛 2 | 🌐 C# | 📅 2026-05-05
-* [RBCmd](https://github.com/EricZimmerman/RBCmd) ⭐ 62 | 🐛 0 | 🌐 C# | 📅 2026-04-28
+* [RBCmd](https://github.com/EricZimmerman/RBCmd) ⭐ 63 | 🐛 0 | 🌐 C# | 📅 2026-04-28
 * [SQLECmd](https://github.com/EricZimmerman/SQLECmd) ⭐ 61 | 🐛 4 | 🌐 C# | 📅 2026-04-28
   * Namely, [Maps](https://github.com/EricZimmerman/SQLECmd/tree/master/SQLMap/Maps) ⭐ 61 | 🐛 4 | 🌐 C# | 📅 2026-04-28 where SQLECmd Maps are located
     * [SQLECmd GitHub Project](https://github.com/EricZimmerman/SQLECmd/projects/1) ⭐ 61 | 🐛 4 | 🌐 C# | 📅 2026-04-28
@@ -195,4 +195,4 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
