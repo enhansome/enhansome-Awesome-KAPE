@@ -33,8 +33,8 @@ In line with other Awesome GitHub repos, Awesome-KAPE serves as a curated list o
 
 #### Official GitHub repositories:
 
-* [KapeFiles](https://github.com/EricZimmerman/KapeFiles) ⭐ 879 | 🐛 18 | 📅 2026-09-18 - This repository contains all the Targets and Modules utilized by KAPE to collect and process forensic artifacts
-  * [KapeFiles GitHub Project](https://github.com/EricZimmerman/KapeFiles/projects/1) ⭐ 879 | 🐛 18 | 📅 2026-09-18
+* [KapeFiles](https://github.com/EricZimmerman/KapeFiles) ⭐ 881 | 🐛 18 | 📅 2026-09-18 - This repository contains all the Targets and Modules utilized by KAPE to collect and process forensic artifacts
+  * [KapeFiles GitHub Project](https://github.com/EricZimmerman/KapeFiles/projects/1) ⭐ 881 | 🐛 18 | 📅 2026-09-18
 * [KapeDocs](https://github.com/EricZimmerman/KapeDocs) ⭐ 49 | 🐛 0 | 🌐 HTML | 📅 2026-02-11 - This repository serves as the backend for KAPE's Official Documentation, linked [here](https://ericzimmerman.github.io/KapeDocs/)
 
 #### Community KAPE-related GitHub repositories:
@@ -78,12 +78,12 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
     * [EvtxECmd GitHub Project](https://github.com/EricZimmerman/evtx/projects/1) ⭐ 375 | 🐛 7 | 🌐 C# | 📅 2026-06-17
 * [LECmd](https://github.com/EricZimmerman/LECmd) ⭐ 348 | 🐛 3 | 🌐 C# | 📅 2026-05-13
 * [MFTECmd](https://github.com/EricZimmerman/MFTECmd) ⭐ 338 | 🐛 6 | 🌐 C# | 📅 2026-05-10
-* [PECmd](https://github.com/EricZimmerman/PECmd) ⭐ 306 | 🐛 1 | 🌐 C# | 📅 2026-09-02
+* [PECmd](https://github.com/EricZimmerman/PECmd) ⭐ 307 | 🐛 1 | 🌐 C# | 📅 2026-09-02
 * [RECmd](https://github.com/EricZimmerman/RECmd) ⭐ 184 | 🐛 1 | 🌐 Rebol | 📅 2026-05-04
   * Namely, [BatchExamples](https://github.com/EricZimmerman/RECmd/tree/master/BatchExamples) ⭐ 184 | 🐛 1 | 🌐 Rebol | 📅 2026-05-04 where Batch Files are
     * [RECmd Kroll Batch GitHub Project](https://github.com/EricZimmerman/RECmd/projects/1) ⭐ 184 | 🐛 1 | 🌐 Rebol | 📅 2026-05-04
-  * Also, [RegistryPlugins](https://github.com/EricZimmerman/RegistryPlugins) ⭐ 87 | 🐛 1 | 🌐 C# | 📅 2026-09-07 which are used by RECmd (and Registry Explorer) to generate more efficient/actionable output
-    * [Registry Explorer Plugins GitHub Project](https://github.com/EricZimmerman/RegistryPlugins/projects/1) ⭐ 87 | 🐛 1 | 🌐 C# | 📅 2026-09-07
+  * Also, [RegistryPlugins](https://github.com/EricZimmerman/RegistryPlugins) ⭐ 88 | 🐛 1 | 🌐 C# | 📅 2026-09-07 which are used by RECmd (and Registry Explorer) to generate more efficient/actionable output
+    * [Registry Explorer Plugins GitHub Project](https://github.com/EricZimmerman/RegistryPlugins/projects/1) ⭐ 88 | 🐛 1 | 🌐 C# | 📅 2026-09-07
 * [AmcacheParser](https://github.com/EricZimmerman/AmcacheParser) ⭐ 160 | 🐛 0 | 🌐 C# | 📅 2026-06-17
 * [bstrings](https://github.com/EricZimmerman/bstrings) ⭐ 152 | 🐛 0 | 🌐 C# | 📅 2026-04-26
 * [AppCompatCacheParser](https://github.com/EricZimmerman/AppCompatCacheParser) ⭐ 129 | 🐛 0 | 🌐 C# | 📅 2026-05-03
@@ -195,4 +195,4 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._

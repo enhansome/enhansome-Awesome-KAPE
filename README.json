@@ -28,7 +28,7 @@
                         "open_issues": 18,
                         "owner": "EricZimmerman",
                         "repo": "KapeFiles",
-                        "stars": 879,
+                        "stars": 881,
                         "topics": [
                           "gkape",
                           "kape",
@@ -49,7 +49,7 @@
                     "open_issues": 18,
                     "owner": "EricZimmerman",
                     "repo": "KapeFiles",
-                    "stars": 879,
+                    "stars": 881,
                     "topics": [
                       "gkape",
                       "kape",
@@ -728,7 +728,7 @@
                     "open_issues": 1,
                     "owner": "EricZimmerman",
                     "repo": "PECmd",
-                    "stars": 306,
+                    "stars": 307,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:37.161Z"
@@ -802,7 +802,7 @@
                             "open_issues": 1,
                             "owner": "EricZimmerman",
                             "repo": "RegistryPlugins",
-                            "stars": 87,
+                            "stars": 88,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T16:51:37.161Z"
@@ -819,7 +819,7 @@
                         "open_issues": 1,
                         "owner": "EricZimmerman",
                         "repo": "RegistryPlugins",
-                        "stars": 87,
+                        "stars": 88,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:51:37.161Z"
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T09:29:13.469Z",
+    "last_updated": "2026-09-27T10:09:22.647Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of KAPE-related resources",
