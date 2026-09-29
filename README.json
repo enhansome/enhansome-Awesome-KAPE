@@ -920,7 +920,7 @@
                     "open_issues": 2,
                     "owner": "EricZimmerman",
                     "repo": "JLECmd",
-                    "stars": 122,
+                    "stars": 123,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:37.161Z"
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T11:09:52.620Z",
+    "last_updated": "2026-09-29T10:51:23.031Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of KAPE-related resources",
