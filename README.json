@@ -123,7 +123,7 @@
                     "open_issues": 19,
                     "owner": "jfarley248",
                     "repo": "iTunes_Backup_Reader",
-                    "stars": 192,
+                    "stars": 193,
                     "topics": [
                       "backups",
                       "dfir",
@@ -703,7 +703,7 @@
                     "open_issues": 6,
                     "owner": "EricZimmerman",
                     "repo": "MFTECmd",
-                    "stars": 338,
+                    "stars": 337,
                     "topics": [
                       "forensics",
                       "mft",
@@ -728,7 +728,7 @@
                     "open_issues": 1,
                     "owner": "EricZimmerman",
                     "repo": "PECmd",
-                    "stars": 308,
+                    "stars": 309,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:37.161Z"
@@ -920,7 +920,7 @@
                     "open_issues": 2,
                     "owner": "EricZimmerman",
                     "repo": "JLECmd",
-                    "stars": 123,
+                    "stars": 124,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:37.161Z"
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T10:51:23.031Z",
+    "last_updated": "2026-09-30T10:40:39.423Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of KAPE-related resources",
