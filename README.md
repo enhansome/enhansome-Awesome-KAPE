@@ -73,9 +73,9 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
 
 #### Official GitHub repositories:
 
-* [EvtxECmd](https://github.com/EricZimmerman/evtx) ⭐ 375 | 🐛 7 | 🌐 C# | 📅 2026-06-17
-  * Namely, [Maps](https://github.com/EricZimmerman/evtx/tree/master/evtx/Maps) ⭐ 375 | 🐛 7 | 🌐 C# | 📅 2026-06-17 where EvtxECmd Maps are located
-    * [EvtxECmd GitHub Project](https://github.com/EricZimmerman/evtx/projects/1) ⭐ 375 | 🐛 7 | 🌐 C# | 📅 2026-06-17
+* [EvtxECmd](https://github.com/EricZimmerman/evtx) ⭐ 376 | 🐛 7 | 🌐 C# | 📅 2026-06-17
+  * Namely, [Maps](https://github.com/EricZimmerman/evtx/tree/master/evtx/Maps) ⭐ 376 | 🐛 7 | 🌐 C# | 📅 2026-06-17 where EvtxECmd Maps are located
+    * [EvtxECmd GitHub Project](https://github.com/EricZimmerman/evtx/projects/1) ⭐ 376 | 🐛 7 | 🌐 C# | 📅 2026-06-17
 * [LECmd](https://github.com/EricZimmerman/LECmd) ⭐ 348 | 🐛 3 | 🌐 C# | 📅 2026-05-13
 * [MFTECmd](https://github.com/EricZimmerman/MFTECmd) ⭐ 337 | 🐛 6 | 🌐 C# | 📅 2026-05-10
 * [PECmd](https://github.com/EricZimmerman/PECmd) ⭐ 309 | 🐛 1 | 🌐 C# | 📅 2026-09-02
@@ -195,4 +195,4 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
