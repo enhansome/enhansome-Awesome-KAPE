@@ -15,7 +15,7 @@
                     {
                       "node_type": "item",
                       "title": "KapeFiles GitHub Project",
-                      "description": null,
+                      "description": "EricZimmerman/KapeFiles",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -28,7 +28,7 @@
                         "open_issues": 18,
                         "owner": "EricZimmerman",
                         "repo": "KapeFiles",
-                        "stars": 882,
+                        "stars": 883,
                         "topics": [
                           "gkape",
                           "kape",
@@ -49,7 +49,7 @@
                     "open_issues": 18,
                     "owner": "EricZimmerman",
                     "repo": "KapeFiles",
-                    "stars": 882,
+                    "stars": 883,
                     "topics": [
                       "gkape",
                       "kape",
@@ -89,7 +89,7 @@
                 {
                   "node_type": "item",
                   "title": "CyberPipe",
-                  "description": null,
+                  "description": "dwmetz/CyberPipe",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -110,7 +110,7 @@
                 {
                   "node_type": "item",
                   "title": "iTunes_Backup_Reader",
-                  "description": null,
+                  "description": "jfarley248/iTunes_Backup_Reader",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -140,7 +140,7 @@
                 {
                   "node_type": "item",
                   "title": "Invoke-Forensics",
-                  "description": null,
+                  "description": "swisscom/Invoke-Forensics",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -153,7 +153,7 @@
                     "open_issues": 0,
                     "owner": "swisscom",
                     "repo": "Invoke-Forensics",
-                    "stars": 118,
+                    "stars": 119,
                     "topics": [
                       "forensics",
                       "kape",
@@ -166,7 +166,7 @@
                 {
                   "node_type": "item",
                   "title": "IRCP",
-                  "description": null,
+                  "description": "hackjalstead/IRCP",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -187,7 +187,7 @@
                 {
                   "node_type": "item",
                   "title": "Get-MiniTimeline",
-                  "description": null,
+                  "description": "evild3ad/Get-MiniTimeline",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -215,7 +215,7 @@
                 {
                   "node_type": "item",
                   "title": "Get-KapeModuleBinaries",
-                  "description": null,
+                  "description": "grayfold3d/Get-KapeModuleBinaries",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -236,7 +236,7 @@
                 {
                   "node_type": "item",
                   "title": "ForensicImageKAPEOutput",
-                  "description": null,
+                  "description": "AndrewRathbun/ForensicImageKAPEOutput",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -263,7 +263,7 @@
                 {
                   "node_type": "item",
                   "title": "KapeStrike",
-                  "description": null,
+                  "description": "Snausage0x45/KapeStrike",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -286,7 +286,7 @@
                 {
                   "node_type": "item",
                   "title": "KAPE_Tools",
-                  "description": null,
+                  "description": "mdegrazia/KAPE_Tools",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -307,7 +307,7 @@
                 {
                   "node_type": "item",
                   "title": "kape-remote-collections",
-                  "description": null,
+                  "description": "mark-hallman/kape-remote-collections",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -328,7 +328,7 @@
                 {
                   "node_type": "item",
                   "title": "Invoke-Kape",
-                  "description": null,
+                  "description": "keyboardcrunch/Invoke-Kape",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -353,7 +353,7 @@
                 {
                   "node_type": "item",
                   "title": "RemoteKapeTriage",
-                  "description": null,
+                  "description": "Richard1611/RemoteKapeTriage",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -386,7 +386,7 @@
                 {
                   "node_type": "item",
                   "title": "DFRWS-2019-KAPE-Workshop",
-                  "description": null,
+                  "description": "mark-hallman/DFRWS-2019-KAPE-Workshop",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -407,7 +407,7 @@
                 {
                   "node_type": "item",
                   "title": "kape-at-scale",
-                  "description": null,
+                  "description": "mark-hallman/kape-at-scale",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -428,7 +428,7 @@
                 {
                   "node_type": "item",
                   "title": "KAPE-Automation",
-                  "description": null,
+                  "description": "Beercow/KAPE-Automation",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -449,7 +449,7 @@
                 {
                   "node_type": "item",
                   "title": "Heed",
-                  "description": null,
+                  "description": "XCID11/Heed",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -470,7 +470,7 @@
                 {
                   "node_type": "item",
                   "title": "Kape2ADX",
-                  "description": null,
+                  "description": "mikecybersec/Kape2ADX",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -491,7 +491,7 @@
                 {
                   "node_type": "item",
                   "title": "KAPE-Binary-Downloads",
-                  "description": null,
+                  "description": "esecrpm/KAPE-Binary-Downloads",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -512,7 +512,7 @@
                 {
                   "node_type": "item",
                   "title": "Kapesaw",
-                  "description": null,
+                  "description": "acquiredsecurity/kapesaw",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -533,7 +533,7 @@
                 {
                   "node_type": "item",
                   "title": "Kape-MDE",
-                  "description": null,
+                  "description": "dsplice/kape-mde",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -554,7 +554,7 @@
                 {
                   "node_type": "item",
                   "title": "KAPEConfigurationFIles",
-                  "description": null,
+                  "description": "robertstrom/KAPEConfigurationFIles",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -589,7 +589,7 @@
                 {
                   "node_type": "item",
                   "title": "EvtxECmd",
-                  "description": null,
+                  "description": "EricZimmerman/evtx",
                   "children": [
                     {
                       "node_type": "item",
@@ -599,7 +599,7 @@
                         {
                           "node_type": "item",
                           "title": "EvtxECmd GitHub Project",
-                          "description": null,
+                          "description": "EricZimmerman/evtx",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -669,7 +669,7 @@
                 {
                   "node_type": "item",
                   "title": "LECmd",
-                  "description": null,
+                  "description": "EricZimmerman/LECmd",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -690,7 +690,7 @@
                 {
                   "node_type": "item",
                   "title": "MFTECmd",
-                  "description": null,
+                  "description": "EricZimmerman/MFTECmd",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -715,7 +715,7 @@
                 {
                   "node_type": "item",
                   "title": "PECmd",
-                  "description": null,
+                  "description": "EricZimmerman/PECmd",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -736,7 +736,7 @@
                 {
                   "node_type": "item",
                   "title": "RECmd",
-                  "description": null,
+                  "description": "EricZimmerman/RECmd",
                   "children": [
                     {
                       "node_type": "item",
@@ -746,7 +746,7 @@
                         {
                           "node_type": "item",
                           "title": "RECmd Kroll Batch GitHub Project",
-                          "description": null,
+                          "description": "EricZimmerman/RECmd",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -789,7 +789,7 @@
                         {
                           "node_type": "item",
                           "title": "Registry Explorer Plugins GitHub Project",
-                          "description": null,
+                          "description": "EricZimmerman/RegistryPlugins",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -844,7 +844,7 @@
                 {
                   "node_type": "item",
                   "title": "AmcacheParser",
-                  "description": null,
+                  "description": "EricZimmerman/AmcacheParser",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -865,7 +865,7 @@
                 {
                   "node_type": "item",
                   "title": "bstrings",
-                  "description": null,
+                  "description": "EricZimmerman/bstrings",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -886,7 +886,7 @@
                 {
                   "node_type": "item",
                   "title": "AppCompatCacheParser",
-                  "description": null,
+                  "description": "EricZimmerman/AppCompatCacheParser",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -907,7 +907,7 @@
                 {
                   "node_type": "item",
                   "title": "JLECmd",
-                  "description": null,
+                  "description": "EricZimmerman/JLECmd",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -928,7 +928,7 @@
                 {
                   "node_type": "item",
                   "title": "RBCmd",
-                  "description": null,
+                  "description": "EricZimmerman/RBCmd",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -949,7 +949,7 @@
                 {
                   "node_type": "item",
                   "title": "SQLECmd",
-                  "description": null,
+                  "description": "EricZimmerman/SQLECmd",
                   "children": [
                     {
                       "node_type": "item",
@@ -959,7 +959,7 @@
                         {
                           "node_type": "item",
                           "title": "SQLECmd GitHub Project",
-                          "description": null,
+                          "description": "EricZimmerman/SQLECmd",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -1014,7 +1014,7 @@
                 {
                   "node_type": "item",
                   "title": "SrumECmd",
-                  "description": null,
+                  "description": "EricZimmerman/Srum",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1056,7 +1056,7 @@
                 {
                   "node_type": "item",
                   "title": "RecentFileCacheParser",
-                  "description": null,
+                  "description": "EricZimmerman/RecentFileCacheParser",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1077,7 +1077,7 @@
                 {
                   "node_type": "item",
                   "title": "WxTCmd",
-                  "description": null,
+                  "description": "EricZimmerman/WxTCmd",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1098,7 +1098,7 @@
                 {
                   "node_type": "item",
                   "title": "SumECmd",
-                  "description": null,
+                  "description": "EricZimmerman/Sum",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1148,7 +1148,7 @@
             "open_issues": 2,
             "owner": "AndrewRathbun",
             "repo": "KAPE-EZToolsAncillaryUpdater",
-            "stars": 62,
+            "stars": 63,
             "topics": [
               "dfir",
               "digitalforensics",
@@ -1169,7 +1169,7 @@
         {
           "node_type": "item",
           "title": "DFIRMindMaps - KAPE",
-          "description": null,
+          "description": "AndrewRathbun/DFIRMindMaps",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T10:41:09.199Z",
+    "last_updated": "2026-10-03T04:26:10.017Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of KAPE-related resources",
