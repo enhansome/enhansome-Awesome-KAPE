@@ -33,8 +33,8 @@ In line with other Awesome GitHub repos, Awesome-KAPE serves as a curated list o
 
 #### Official GitHub repositories:
 
-* [KapeFiles](https://github.com/EricZimmerman/KapeFiles) ⭐ 883 | 🐛 18 | 📅 2026-09-18 - This repository contains all the Targets and Modules utilized by KAPE to collect and process forensic artifacts
-  * [KapeFiles GitHub Project](https://github.com/EricZimmerman/KapeFiles/projects/1) ⭐ 883 | 🐛 18 | 📅 2026-09-18
+* [KapeFiles](https://github.com/EricZimmerman/KapeFiles) ⭐ 882 | 🐛 18 | 📅 2026-09-18 - This repository contains all the Targets and Modules utilized by KAPE to collect and process forensic artifacts
+  * [KapeFiles GitHub Project](https://github.com/EricZimmerman/KapeFiles/projects/1) ⭐ 882 | 🐛 18 | 📅 2026-09-18
 * [KapeDocs](https://github.com/EricZimmerman/KapeDocs) ⭐ 49 | 🐛 0 | 🌐 HTML | 📅 2026-02-11 - This repository serves as the backend for KAPE's Official Documentation, linked [here](https://ericzimmerman.github.io/KapeDocs/)
 
 #### Community KAPE-related GitHub repositories:
@@ -77,7 +77,7 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
   * Namely, [Maps](https://github.com/EricZimmerman/evtx/tree/master/evtx/Maps) ⭐ 376 | 🐛 7 | 🌐 C# | 📅 2026-06-17 where EvtxECmd Maps are located
     * [EvtxECmd GitHub Project](https://github.com/EricZimmerman/evtx/projects/1) ⭐ 376 | 🐛 7 | 🌐 C# | 📅 2026-06-17
 * [LECmd](https://github.com/EricZimmerman/LECmd) ⭐ 348 | 🐛 3 | 🌐 C# | 📅 2026-05-13
-* [MFTECmd](https://github.com/EricZimmerman/MFTECmd) ⭐ 338 | 🐛 6 | 🌐 C# | 📅 2026-05-10
+* [MFTECmd](https://github.com/EricZimmerman/MFTECmd) ⭐ 339 | 🐛 6 | 🌐 C# | 📅 2026-05-10
 * [PECmd](https://github.com/EricZimmerman/PECmd) ⭐ 309 | 🐛 1 | 🌐 C# | 📅 2026-09-02
 * [RECmd](https://github.com/EricZimmerman/RECmd) ⭐ 184 | 🐛 1 | 🌐 Rebol | 📅 2026-05-04
   * Namely, [BatchExamples](https://github.com/EricZimmerman/RECmd/tree/master/BatchExamples) ⭐ 184 | 🐛 1 | 🌐 Rebol | 📅 2026-05-04 where Batch Files are
@@ -100,7 +100,7 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
 
 ## Updating KAPE and EZ Tools
 
-* [KAPE-EZToolsAncillaryUpdater](https://github.com/rathbuna/KAPE-EZToolsAncillaryUpdater) ⭐ 63 | 🐛 2 | 🌐 PowerShell | 📅 2025-06-24 - Keep KAPE and all tools located within `.\KAPE\Modules\bin\*` updated with a single PowerShell script!
+* [KAPE-EZToolsAncillaryUpdater](https://github.com/rathbuna/KAPE-EZToolsAncillaryUpdater) ⭐ 62 | 🐛 2 | 🌐 PowerShell | 📅 2025-06-24 - Keep KAPE and all tools located within `.\KAPE\Modules\bin\*` updated with a single PowerShell script!
 
 ## Resources
 
@@ -195,4 +195,4 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
