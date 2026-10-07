@@ -123,7 +123,7 @@
                     "open_issues": 19,
                     "owner": "jfarley248",
                     "repo": "iTunes_Backup_Reader",
-                    "stars": 193,
+                    "stars": 191,
                     "topics": [
                       "backups",
                       "dfir",
@@ -306,27 +306,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "kape-remote-collections",
-                  "description": "mark-hallman/kape-remote-collections",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": null,
-                    "homepage": null,
-                    "id": 295282114,
-                    "language": null,
-                    "license": null,
-                    "last_commit": "2021-03-22T16:28:49Z",
-                    "open_issues": 0,
-                    "owner": "mark-hallman",
-                    "repo": "kape-remote-collections",
-                    "stars": 11,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T16:51:37.161Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "Invoke-Kape",
                   "description": "keyboardcrunch/Invoke-Kape",
                   "children": [],
@@ -347,6 +326,27 @@
                       "forensics",
                       "kape"
                     ]
+                  },
+                  "first_seen": "2026-08-28T16:51:37.161Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "kape-remote-collections",
+                  "description": "mark-hallman/kape-remote-collections",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 295282114,
+                    "language": null,
+                    "license": null,
+                    "last_commit": "2021-03-22T16:28:49Z",
+                    "open_issues": 0,
+                    "owner": "mark-hallman",
+                    "repo": "kape-remote-collections",
+                    "stars": 10,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:37.161Z"
                 },
@@ -725,10 +725,10 @@
                     "language": "C#",
                     "license": "MIT",
                     "last_commit": "2026-09-02T11:56:42Z",
-                    "open_issues": 1,
+                    "open_issues": 2,
                     "owner": "EricZimmerman",
                     "repo": "PECmd",
-                    "stars": 309,
+                    "stars": 307,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:37.161Z"
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:27:03.049Z",
+    "last_updated": "2026-10-07T11:16:56.983Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of KAPE-related resources",
