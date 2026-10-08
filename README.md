@@ -76,7 +76,7 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
 * [EvtxECmd](https://github.com/EricZimmerman/evtx) ⭐ 376 | 🐛 7 | 🌐 C# | 📅 2026-06-17
   * Namely, [Maps](https://github.com/EricZimmerman/evtx/tree/master/evtx/Maps) ⭐ 376 | 🐛 7 | 🌐 C# | 📅 2026-06-17 where EvtxECmd Maps are located
     * [EvtxECmd GitHub Project](https://github.com/EricZimmerman/evtx/projects/1) ⭐ 376 | 🐛 7 | 🌐 C# | 📅 2026-06-17
-* [LECmd](https://github.com/EricZimmerman/LECmd) ⭐ 348 | 🐛 3 | 🌐 C# | 📅 2026-05-13
+* [LECmd](https://github.com/EricZimmerman/LECmd) ⭐ 349 | 🐛 3 | 🌐 C# | 📅 2026-05-13
 * [MFTECmd](https://github.com/EricZimmerman/MFTECmd) ⭐ 339 | 🐛 6 | 🌐 C# | 📅 2026-05-10
 * [PECmd](https://github.com/EricZimmerman/PECmd) ⭐ 307 | 🐛 2 | 🌐 C# | 📅 2026-09-02
 * [RECmd](https://github.com/EricZimmerman/RECmd) ⭐ 184 | 🐛 1 | 🌐 Rebol | 📅 2026-05-04
@@ -85,7 +85,7 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
   * Also, [RegistryPlugins](https://github.com/EricZimmerman/RegistryPlugins) ⭐ 89 | 🐛 1 | 🌐 C# | 📅 2026-09-07 which are used by RECmd (and Registry Explorer) to generate more efficient/actionable output
     * [Registry Explorer Plugins GitHub Project](https://github.com/EricZimmerman/RegistryPlugins/projects/1) ⭐ 89 | 🐛 1 | 🌐 C# | 📅 2026-09-07
 * [AmcacheParser](https://github.com/EricZimmerman/AmcacheParser) ⭐ 160 | 🐛 0 | 🌐 C# | 📅 2026-06-17
-* [bstrings](https://github.com/EricZimmerman/bstrings) ⭐ 152 | 🐛 0 | 🌐 C# | 📅 2026-04-26
+* [bstrings](https://github.com/EricZimmerman/bstrings) ⭐ 153 | 🐛 0 | 🌐 C# | 📅 2026-04-26
 * [AppCompatCacheParser](https://github.com/EricZimmerman/AppCompatCacheParser) ⭐ 129 | 🐛 0 | 🌐 C# | 📅 2026-05-03
 * [JLECmd](https://github.com/EricZimmerman/JLECmd) ⭐ 124 | 🐛 2 | 🌐 C# | 📅 2026-05-05
 * [RBCmd](https://github.com/EricZimmerman/RBCmd) ⭐ 64 | 🐛 0 | 🌐 C# | 📅 2026-04-28
@@ -195,4 +195,4 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._

@@ -682,7 +682,7 @@
                     "open_issues": 3,
                     "owner": "EricZimmerman",
                     "repo": "LECmd",
-                    "stars": 348,
+                    "stars": 349,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:37.161Z"
@@ -878,7 +878,7 @@
                     "open_issues": 0,
                     "owner": "EricZimmerman",
                     "repo": "bstrings",
-                    "stars": 152,
+                    "stars": 153,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:37.161Z"
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T11:16:56.983Z",
+    "last_updated": "2026-10-08T11:33:25.360Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of KAPE-related resources",
