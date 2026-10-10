@@ -35,17 +35,17 @@ In line with other Awesome GitHub repos, Awesome-KAPE serves as a curated list o
 
 * [KapeFiles](https://github.com/EricZimmerman/KapeFiles) ⭐ 882 | 🐛 18 | 📅 2026-09-18 - This repository contains all the Targets and Modules utilized by KAPE to collect and process forensic artifacts
   * [KapeFiles GitHub Project](https://github.com/EricZimmerman/KapeFiles/projects/1) ⭐ 882 | 🐛 18 | 📅 2026-09-18
-* [KapeDocs](https://github.com/EricZimmerman/KapeDocs) ⭐ 49 | 🐛 0 | 🌐 HTML | 📅 2026-02-11 - This repository serves as the backend for KAPE's Official Documentation, linked [here](https://ericzimmerman.github.io/KapeDocs/)
+* [KapeDocs](https://github.com/EricZimmerman/KapeDocs) ⭐ 50 | 🐛 0 | 🌐 HTML | 📅 2026-02-11 - This repository serves as the backend for KAPE's Official Documentation, linked [here](https://ericzimmerman.github.io/KapeDocs/)
 
 #### Community KAPE-related GitHub repositories:
 
-* [CyberPipe](https://github.com/dwmetz/CyberPipe) ⭐ 347 | 🐛 0 | 🌐 PowerShell | 📅 2025-12-03
+* [CyberPipe](https://github.com/dwmetz/CyberPipe) ⭐ 348 | 🐛 0 | 🌐 PowerShell | 📅 2025-12-03
 * [iTunes\_Backup\_Reader](https://github.com/jfarley248/iTunes_Backup_Reader) ⭐ 191 | 🐛 19 | 🌐 Python | 📅 2023-10-16
 * [Invoke-Forensics](https://github.com/swisscom/Invoke-Forensics) ⭐ 119 | 🐛 0 | 🌐 PowerShell | 📅 2023-11-28
 * [IRCP](https://github.com/hackjalstead/IRCP) ⭐ 65 | 🐛 0 | 🌐 PowerShell | 📅 2022-01-31
 * [Get-MiniTimeline](https://github.com/evild3ad/Get-MiniTimeline) ⭐ 36 | 🐛 0 | 🌐 PowerShell | 📅 2024-05-25
+* [ForensicImageKAPEOutput](https://github.com/AndrewRathbun/ForensicImageKAPEOutput) ⭐ 18 | 🐛 0 | 📅 2024-08-31
 * [Get-KapeModuleBinaries](https://github.com/grayfold3d/Get-KapeModuleBinaries) ⭐ 18 | 🐛 0 | 🌐 PowerShell | 📅 2019-10-02
-* [ForensicImageKAPEOutput](https://github.com/AndrewRathbun/ForensicImageKAPEOutput) ⭐ 17 | 🐛 0 | 📅 2024-08-31
 * [KapeStrike](https://github.com/Snausage0x45/KapeStrike) ⭐ 15 | 🐛 0 | 🌐 PowerShell | 📅 2022-03-05
 * [KAPE\_Tools](https://github.com/mdegrazia/KAPE_Tools) ⭐ 13 | 🐛 1 | 📅 2019-08-13
 * [Invoke-Kape](https://github.com/keyboardcrunch/Invoke-Kape) ⭐ 10 | 🐛 0 | 🌐 PowerShell | 📅 2019-08-08
@@ -195,4 +195,4 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
