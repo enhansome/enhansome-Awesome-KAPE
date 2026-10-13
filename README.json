@@ -24,11 +24,11 @@
                         "id": 152290823,
                         "language": null,
                         "license": "MIT",
-                        "last_commit": "2026-10-10T20:54:25Z",
+                        "last_commit": "2026-10-12T23:24:18Z",
                         "open_issues": 18,
                         "owner": "EricZimmerman",
                         "repo": "KapeFiles",
-                        "stars": 883,
+                        "stars": 885,
                         "topics": [
                           "gkape",
                           "kape",
@@ -45,11 +45,11 @@
                     "id": 152290823,
                     "language": null,
                     "license": "MIT",
-                    "last_commit": "2026-10-10T20:54:25Z",
+                    "last_commit": "2026-10-12T23:24:18Z",
                     "open_issues": 18,
                     "owner": "EricZimmerman",
                     "repo": "KapeFiles",
-                    "stars": 883,
+                    "stars": 885,
                     "topics": [
                       "gkape",
                       "kape",
@@ -728,7 +728,7 @@
                     "open_issues": 2,
                     "owner": "EricZimmerman",
                     "repo": "PECmd",
-                    "stars": 308,
+                    "stars": 309,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:37.161Z"
@@ -1027,7 +1027,7 @@
                     "open_issues": 3,
                     "owner": "EricZimmerman",
                     "repo": "Srum",
-                    "stars": 55,
+                    "stars": 56,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:37.161Z"
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T12:22:05.883Z",
+    "last_updated": "2026-10-13T12:04:18.086Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of KAPE-related resources",
@@ -1213,7 +1213,7 @@
       "open_issues": 0,
       "owner": "AndrewRathbun",
       "repo": "Awesome-KAPE",
-      "stars": 193,
+      "stars": 194,
       "topics": [
         "awesome",
         "awesome-list",
