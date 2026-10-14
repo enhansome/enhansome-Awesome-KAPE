@@ -703,7 +703,7 @@
                     "open_issues": 6,
                     "owner": "EricZimmerman",
                     "repo": "MFTECmd",
-                    "stars": 340,
+                    "stars": 341,
                     "topics": [
                       "forensics",
                       "mft",
@@ -1182,7 +1182,7 @@
             "open_issues": 0,
             "owner": "AndrewRathbun",
             "repo": "DFIRMindMaps",
-            "stars": 553,
+            "stars": 554,
             "topics": [
               "dfir",
               "digitalforensics",
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T12:04:18.086Z",
+    "last_updated": "2026-10-14T09:40:14.082Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of KAPE-related resources",
