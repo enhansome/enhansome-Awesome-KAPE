@@ -28,7 +28,7 @@
                         "open_issues": 18,
                         "owner": "EricZimmerman",
                         "repo": "KapeFiles",
-                        "stars": 885,
+                        "stars": 887,
                         "topics": [
                           "gkape",
                           "kape",
@@ -49,7 +49,7 @@
                     "open_issues": 18,
                     "owner": "EricZimmerman",
                     "repo": "KapeFiles",
-                    "stars": 885,
+                    "stars": 887,
                     "topics": [
                       "gkape",
                       "kape",
@@ -678,8 +678,8 @@
                     "id": 51476225,
                     "language": "C#",
                     "license": "MIT",
-                    "last_commit": "2026-05-13T19:01:43Z",
-                    "open_issues": 3,
+                    "last_commit": "2026-10-14T22:34:24Z",
+                    "open_issues": 4,
                     "owner": "EricZimmerman",
                     "repo": "LECmd",
                     "stars": 349,
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T09:40:14.082Z",
+    "last_updated": "2026-10-15T09:19:25.216Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of KAPE-related resources",
