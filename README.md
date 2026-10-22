@@ -50,9 +50,9 @@ In line with other Awesome GitHub repos, Awesome-KAPE serves as a curated list o
 * [KAPE\_Tools](https://github.com/mdegrazia/KAPE_Tools) ⭐ 13 | 🐛 1 | 📅 2019-08-13
 * [Invoke-Kape](https://github.com/keyboardcrunch/Invoke-Kape) ⭐ 10 | 🐛 0 | 🌐 PowerShell | 📅 2019-08-08
 * [kape-remote-collections](https://github.com/mark-hallman/kape-remote-collections) ⭐ 10 | 🐛 0 | 📅 2021-03-22
-* [RemoteKapeTriage](https://github.com/Richard1611/RemoteKapeTriage) ⭐ 10 | 🐛 0 | 🌐 PowerShell | 📅 2021-05-28
 * [DFRWS-2019-KAPE-Workshop](https://github.com/mark-hallman/DFRWS-2019-KAPE-Workshop) ⭐ 9 | 🐛 0 | 📅 2019-07-14
 * [kape-at-scale](https://github.com/mark-hallman/kape-at-scale) ⭐ 9 | 🐛 0 | 📅 2019-10-15
+* [RemoteKapeTriage](https://github.com/Richard1611/RemoteKapeTriage) ⭐ 9 | 🐛 0 | 🌐 PowerShell | 📅 2021-05-28
 * [KAPE-Automation](https://github.com/Beercow/KAPE-Automation) ⭐ 8 | 🐛 1 | 🌐 PowerShell | 📅 2020-06-23
 * [Heed](https://github.com/XCID11/Heed) ⭐ 6 | 🐛 0 | 🌐 PowerShell | 📅 2023-10-27
 * [Kape2ADX](https://github.com/mikecybersec/Kape2ADX) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2024-03-27
@@ -78,15 +78,15 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
     * [EvtxECmd GitHub Project](https://github.com/EricZimmerman/evtx/projects/1) ⭐ 376 | 🐛 1 | 🌐 C# | 📅 2026-10-21
 * [LECmd](https://github.com/EricZimmerman/LECmd) ⭐ 349 | 🐛 0 | 🌐 C# | 📅 2026-10-21
 * [MFTECmd](https://github.com/EricZimmerman/MFTECmd) ⭐ 342 | 🐛 1 | 🌐 C# | 📅 2026-10-21
-* [PECmd](https://github.com/EricZimmerman/PECmd) ⭐ 309 | 🐛 0 | 🌐 C# | 📅 2026-10-21
+* [PECmd](https://github.com/EricZimmerman/PECmd) ⭐ 308 | 🐛 0 | 🌐 C# | 📅 2026-10-21
 * [RECmd](https://github.com/EricZimmerman/RECmd) ⭐ 184 | 🐛 1 | 🌐 Rebol | 📅 2026-10-21
   * Namely, [BatchExamples](https://github.com/EricZimmerman/RECmd/tree/master/BatchExamples) ⭐ 184 | 🐛 1 | 🌐 Rebol | 📅 2026-10-21 where Batch Files are
     * [RECmd Kroll Batch GitHub Project](https://github.com/EricZimmerman/RECmd/projects/1) ⭐ 184 | 🐛 1 | 🌐 Rebol | 📅 2026-10-21
   * Also, [RegistryPlugins](https://github.com/EricZimmerman/RegistryPlugins) ⭐ 89 | 🐛 0 | 🌐 C# | 📅 2026-10-21 which are used by RECmd (and Registry Explorer) to generate more efficient/actionable output
     * [Registry Explorer Plugins GitHub Project](https://github.com/EricZimmerman/RegistryPlugins/projects/1) ⭐ 89 | 🐛 0 | 🌐 C# | 📅 2026-10-21
-* [AmcacheParser](https://github.com/EricZimmerman/AmcacheParser) ⭐ 160 | 🐛 0 | 🌐 C# | 📅 2026-10-21
+* [AmcacheParser](https://github.com/EricZimmerman/AmcacheParser) ⭐ 161 | 🐛 0 | 🌐 C# | 📅 2026-10-21
 * [bstrings](https://github.com/EricZimmerman/bstrings) ⭐ 153 | 🐛 0 | 🌐 C# | 📅 2026-10-21
-* [AppCompatCacheParser](https://github.com/EricZimmerman/AppCompatCacheParser) ⭐ 129 | 🐛 0 | 🌐 C# | 📅 2026-10-21
+* [AppCompatCacheParser](https://github.com/EricZimmerman/AppCompatCacheParser) ⭐ 130 | 🐛 0 | 🌐 C# | 📅 2026-10-21
 * [JLECmd](https://github.com/EricZimmerman/JLECmd) ⭐ 124 | 🐛 0 | 🌐 C# | 📅 2026-10-21
 * [RBCmd](https://github.com/EricZimmerman/RBCmd) ⭐ 64 | 🐛 0 | 🌐 C# | 📅 2026-10-21
 * [SQLECmd](https://github.com/EricZimmerman/SQLECmd) ⭐ 61 | 🐛 0 | 🌐 C# | 📅 2026-10-21
@@ -195,4 +195,4 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._

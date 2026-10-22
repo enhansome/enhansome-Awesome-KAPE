@@ -352,39 +352,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "RemoteKapeTriage",
-                  "description": "Richard1611/RemoteKapeTriage",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "A powershell tool that automate the remote forensic evidence adquisitions (triage) from Remote windows machines, using KAPE tool.",
-                    "homepage": null,
-                    "id": 354057982,
-                    "language": "PowerShell",
-                    "license": "GPL-3.0",
-                    "last_commit": "2021-05-28T19:45:46Z",
-                    "open_issues": 0,
-                    "owner": "Richard1611",
-                    "repo": "RemoteKapeTriage",
-                    "stars": 10,
-                    "topics": [
-                      "cybersecurity",
-                      "forensic-analysis",
-                      "forensics",
-                      "incident-response",
-                      "information-gathering",
-                      "information-security",
-                      "kape",
-                      "powershell",
-                      "powershell-script",
-                      "threathunting",
-                      "triage"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:51:37.161Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "DFRWS-2019-KAPE-Workshop",
                   "description": "mark-hallman/DFRWS-2019-KAPE-Workshop",
                   "children": [],
@@ -422,6 +389,39 @@
                     "repo": "kape-at-scale",
                     "stars": 9,
                     "topics": []
+                  },
+                  "first_seen": "2026-08-28T16:51:37.161Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "RemoteKapeTriage",
+                  "description": "Richard1611/RemoteKapeTriage",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A powershell tool that automate the remote forensic evidence adquisitions (triage) from Remote windows machines, using KAPE tool.",
+                    "homepage": null,
+                    "id": 354057982,
+                    "language": "PowerShell",
+                    "license": "GPL-3.0",
+                    "last_commit": "2021-05-28T19:45:46Z",
+                    "open_issues": 0,
+                    "owner": "Richard1611",
+                    "repo": "RemoteKapeTriage",
+                    "stars": 9,
+                    "topics": [
+                      "cybersecurity",
+                      "forensic-analysis",
+                      "forensics",
+                      "incident-response",
+                      "information-gathering",
+                      "information-security",
+                      "kape",
+                      "powershell",
+                      "powershell-script",
+                      "threathunting",
+                      "triage"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:51:37.161Z"
                 },
@@ -728,7 +728,7 @@
                     "open_issues": 0,
                     "owner": "EricZimmerman",
                     "repo": "PECmd",
-                    "stars": 309,
+                    "stars": 308,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:37.161Z"
@@ -857,7 +857,7 @@
                     "open_issues": 0,
                     "owner": "EricZimmerman",
                     "repo": "AmcacheParser",
-                    "stars": 160,
+                    "stars": 161,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:37.161Z"
@@ -899,7 +899,7 @@
                     "open_issues": 0,
                     "owner": "EricZimmerman",
                     "repo": "AppCompatCacheParser",
-                    "stars": 129,
+                    "stars": 130,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:37.161Z"
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T09:30:50.035Z",
+    "last_updated": "2026-10-22T09:33:46.866Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of KAPE-related resources",
@@ -1213,7 +1213,7 @@
       "open_issues": 0,
       "owner": "AndrewRathbun",
       "repo": "Awesome-KAPE",
-      "stars": 194,
+      "stars": 193,
       "topics": [
         "awesome",
         "awesome-list",
