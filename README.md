@@ -73,17 +73,17 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
 
 #### Official GitHub repositories:
 
-* [EvtxECmd](https://github.com/EricZimmerman/evtx) ⭐ 376 | 🐛 1 | 🌐 C# | 📅 2026-10-23
-  * Namely, [Maps](https://github.com/EricZimmerman/evtx/tree/master/evtx/Maps) ⭐ 376 | 🐛 1 | 🌐 C# | 📅 2026-10-23 where EvtxECmd Maps are located
-    * [EvtxECmd GitHub Project](https://github.com/EricZimmerman/evtx/projects/1) ⭐ 376 | 🐛 1 | 🌐 C# | 📅 2026-10-23
+* [EvtxECmd](https://github.com/EricZimmerman/evtx) ⭐ 377 | 🐛 1 | 🌐 C# | 📅 2026-10-23
+  * Namely, [Maps](https://github.com/EricZimmerman/evtx/tree/master/evtx/Maps) ⭐ 377 | 🐛 1 | 🌐 C# | 📅 2026-10-23 where EvtxECmd Maps are located
+    * [EvtxECmd GitHub Project](https://github.com/EricZimmerman/evtx/projects/1) ⭐ 377 | 🐛 1 | 🌐 C# | 📅 2026-10-23
 * [LECmd](https://github.com/EricZimmerman/LECmd) ⭐ 349 | 🐛 0 | 🌐 C# | 📅 2026-10-23
 * [MFTECmd](https://github.com/EricZimmerman/MFTECmd) ⭐ 342 | 🐛 1 | 🌐 C# | 📅 2026-10-23
-* [PECmd](https://github.com/EricZimmerman/PECmd) ⭐ 309 | 🐛 0 | 🌐 C# | 📅 2026-10-23
+* [PECmd](https://github.com/EricZimmerman/PECmd) ⭐ 310 | 🐛 0 | 🌐 C# | 📅 2026-10-23
 * [RECmd](https://github.com/EricZimmerman/RECmd) ⭐ 184 | 🐛 1 | 🌐 Rebol | 📅 2026-10-23
   * Namely, [BatchExamples](https://github.com/EricZimmerman/RECmd/tree/master/BatchExamples) ⭐ 184 | 🐛 1 | 🌐 Rebol | 📅 2026-10-23 where Batch Files are
     * [RECmd Kroll Batch GitHub Project](https://github.com/EricZimmerman/RECmd/projects/1) ⭐ 184 | 🐛 1 | 🌐 Rebol | 📅 2026-10-23
-  * Also, [RegistryPlugins](https://github.com/EricZimmerman/RegistryPlugins) ⭐ 89 | 🐛 0 | 🌐 C# | 📅 2026-10-22 which are used by RECmd (and Registry Explorer) to generate more efficient/actionable output
-    * [Registry Explorer Plugins GitHub Project](https://github.com/EricZimmerman/RegistryPlugins/projects/1) ⭐ 89 | 🐛 0 | 🌐 C# | 📅 2026-10-22
+  * Also, [RegistryPlugins](https://github.com/EricZimmerman/RegistryPlugins) ⭐ 89 | 🐛 0 | 🌐 C# | 📅 2026-10-23 which are used by RECmd (and Registry Explorer) to generate more efficient/actionable output
+    * [Registry Explorer Plugins GitHub Project](https://github.com/EricZimmerman/RegistryPlugins/projects/1) ⭐ 89 | 🐛 0 | 🌐 C# | 📅 2026-10-23
 * [AmcacheParser](https://github.com/EricZimmerman/AmcacheParser) ⭐ 161 | 🐛 0 | 🌐 C# | 📅 2026-10-23
 * [bstrings](https://github.com/EricZimmerman/bstrings) ⭐ 153 | 🐛 0 | 🌐 C# | 📅 2026-10-23
 * [AppCompatCacheParser](https://github.com/EricZimmerman/AppCompatCacheParser) ⭐ 130 | 🐛 0 | 🌐 C# | 📅 2026-10-23
@@ -92,15 +92,15 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
 * [SQLECmd](https://github.com/EricZimmerman/SQLECmd) ⭐ 61 | 🐛 0 | 🌐 C# | 📅 2026-10-23
   * Namely, [Maps](https://github.com/EricZimmerman/SQLECmd/tree/master/SQLMap/Maps) ⭐ 61 | 🐛 0 | 🌐 C# | 📅 2026-10-23 where SQLECmd Maps are located
     * [SQLECmd GitHub Project](https://github.com/EricZimmerman/SQLECmd/projects/1) ⭐ 61 | 🐛 0 | 🌐 C# | 📅 2026-10-23
-* [SrumECmd](https://github.com/EricZimmerman/Srum) ⭐ 56 | 🐛 0 | 🌐 C# | 📅 2026-10-23
+* [SrumECmd](https://github.com/EricZimmerman/Srum) ⭐ 56 | 🐛 0 | 🌐 C# | 📅 2026-10-24
 * [Registry Explorer Bookmarks GitHub Project](https://github.com/EricZimmerman/RegistryExplorerBookmarks/projects/1) ⭐ 46 | 🐛 0 | 📅 2026-10-22 are used only by Registry Explorer
 * [RecentFileCacheParser](https://github.com/EricZimmerman/RecentFileCacheParser) ⭐ 32 | 🐛 0 | 🌐 C# | 📅 2026-10-23
 * [WxTCmd](https://github.com/EricZimmerman/WxTCmd) ⭐ 26 | 🐛 0 | 🌐 C# | 📅 2026-10-23
-* [SumECmd](https://github.com/EricZimmerman/Sum) ⭐ 20 | 🐛 0 | 🌐 C# | 📅 2026-10-23
+* [SumECmd](https://github.com/EricZimmerman/Sum) ⭐ 20 | 🐛 0 | 🌐 C# | 📅 2026-10-24
 
 ## Updating KAPE and EZ Tools
 
-* [KAPE-EZToolsAncillaryUpdater](https://github.com/rathbuna/KAPE-EZToolsAncillaryUpdater) ⭐ 63 | 🐛 2 | 🌐 PowerShell | 📅 2025-06-24 - Keep KAPE and all tools located within `.\KAPE\Modules\bin\*` updated with a single PowerShell script!
+* [KAPE-EZToolsAncillaryUpdater](https://github.com/rathbuna/KAPE-EZToolsAncillaryUpdater) ⭐ 63 | 🐛 1 | 🌐 PowerShell | 📅 2026-10-23 - Keep KAPE and all tools located within `.\KAPE\Modules\bin\*` updated with a single PowerShell script!
 
 ## Resources
 
@@ -195,4 +195,4 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
