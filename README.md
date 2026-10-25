@@ -33,13 +33,13 @@ In line with other Awesome GitHub repos, Awesome-KAPE serves as a curated list o
 
 #### Official GitHub repositories:
 
-* [KapeFiles](https://github.com/EricZimmerman/KapeFiles) ⭐ 890 | 🐛 18 | 📅 2026-10-19 - This repository contains all the Targets and Modules utilized by KAPE to collect and process forensic artifacts
-  * [KapeFiles GitHub Project](https://github.com/EricZimmerman/KapeFiles/projects/1) ⭐ 890 | 🐛 18 | 📅 2026-10-19
+* [KapeFiles](https://github.com/EricZimmerman/KapeFiles) ⭐ 891 | 🐛 18 | 📅 2026-10-19 - This repository contains all the Targets and Modules utilized by KAPE to collect and process forensic artifacts
+  * [KapeFiles GitHub Project](https://github.com/EricZimmerman/KapeFiles/projects/1) ⭐ 891 | 🐛 18 | 📅 2026-10-19
 * [KapeDocs](https://github.com/EricZimmerman/KapeDocs) ⭐ 50 | 🐛 0 | 🌐 HTML | 📅 2026-02-11 - This repository serves as the backend for KAPE's Official Documentation, linked [here](https://ericzimmerman.github.io/KapeDocs/)
 
 #### Community KAPE-related GitHub repositories:
 
-* [CyberPipe](https://github.com/dwmetz/CyberPipe) ⭐ 348 | 🐛 0 | 🌐 PowerShell | 📅 2025-12-03
+* [CyberPipe](https://github.com/dwmetz/CyberPipe) ⭐ 347 | 🐛 0 | 🌐 PowerShell | 📅 2025-12-03
 * [iTunes\_Backup\_Reader](https://github.com/jfarley248/iTunes_Backup_Reader) ⭐ 192 | 🐛 19 | 🌐 Python | 📅 2023-10-16
 * [Invoke-Forensics](https://github.com/swisscom/Invoke-Forensics) ⭐ 119 | 🐛 0 | 🌐 PowerShell | 📅 2023-11-28
 * [IRCP](https://github.com/hackjalstead/IRCP) ⭐ 65 | 🐛 0 | 🌐 PowerShell | 📅 2022-01-31
@@ -76,8 +76,8 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
 * [EvtxECmd](https://github.com/EricZimmerman/evtx) ⭐ 377 | 🐛 1 | 🌐 C# | 📅 2026-10-23
   * Namely, [Maps](https://github.com/EricZimmerman/evtx/tree/master/evtx/Maps) ⭐ 377 | 🐛 1 | 🌐 C# | 📅 2026-10-23 where EvtxECmd Maps are located
     * [EvtxECmd GitHub Project](https://github.com/EricZimmerman/evtx/projects/1) ⭐ 377 | 🐛 1 | 🌐 C# | 📅 2026-10-23
-* [LECmd](https://github.com/EricZimmerman/LECmd) ⭐ 349 | 🐛 0 | 🌐 C# | 📅 2026-10-23
-* [MFTECmd](https://github.com/EricZimmerman/MFTECmd) ⭐ 342 | 🐛 1 | 🌐 C# | 📅 2026-10-23
+* [LECmd](https://github.com/EricZimmerman/LECmd) ⭐ 350 | 🐛 0 | 🌐 C# | 📅 2026-10-23
+* [MFTECmd](https://github.com/EricZimmerman/MFTECmd) ⭐ 342 | 🐛 0 | 🌐 C# | 📅 2026-10-24
 * [PECmd](https://github.com/EricZimmerman/PECmd) ⭐ 310 | 🐛 0 | 🌐 C# | 📅 2026-10-23
 * [RECmd](https://github.com/EricZimmerman/RECmd) ⭐ 184 | 🐛 1 | 🌐 Rebol | 📅 2026-10-23
   * Namely, [BatchExamples](https://github.com/EricZimmerman/RECmd/tree/master/BatchExamples) ⭐ 184 | 🐛 1 | 🌐 Rebol | 📅 2026-10-23 where Batch Files are
@@ -195,4 +195,4 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
