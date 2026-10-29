@@ -28,7 +28,7 @@
                         "open_issues": 18,
                         "owner": "EricZimmerman",
                         "repo": "KapeFiles",
-                        "stars": 892,
+                        "stars": 893,
                         "topics": [
                           "gkape",
                           "kape",
@@ -49,7 +49,7 @@
                     "open_issues": 18,
                     "owner": "EricZimmerman",
                     "repo": "KapeFiles",
-                    "stars": 892,
+                    "stars": 893,
                     "topics": [
                       "gkape",
                       "kape",
@@ -102,7 +102,7 @@
                     "open_issues": 0,
                     "owner": "dwmetz",
                     "repo": "CyberPipe",
-                    "stars": 349,
+                    "stars": 348,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:37.161Z"
@@ -612,7 +612,7 @@
                             "open_issues": 1,
                             "owner": "EricZimmerman",
                             "repo": "evtx",
-                            "stars": 377,
+                            "stars": 378,
                             "topics": [
                               "event",
                               "eventlog",
@@ -634,7 +634,7 @@
                         "open_issues": 1,
                         "owner": "EricZimmerman",
                         "repo": "evtx",
-                        "stars": 377,
+                        "stars": 378,
                         "topics": [
                           "event",
                           "eventlog",
@@ -656,7 +656,7 @@
                     "open_issues": 1,
                     "owner": "EricZimmerman",
                     "repo": "evtx",
-                    "stars": 377,
+                    "stars": 378,
                     "topics": [
                       "event",
                       "eventlog",
@@ -703,7 +703,7 @@
                     "open_issues": 0,
                     "owner": "EricZimmerman",
                     "repo": "MFTECmd",
-                    "stars": 342,
+                    "stars": 343,
                     "topics": [
                       "forensics",
                       "mft",
@@ -759,7 +759,7 @@
                             "open_issues": 1,
                             "owner": "EricZimmerman",
                             "repo": "RECmd",
-                            "stars": 184,
+                            "stars": 185,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T16:51:37.161Z"
@@ -776,7 +776,7 @@
                         "open_issues": 1,
                         "owner": "EricZimmerman",
                         "repo": "RECmd",
-                        "stars": 184,
+                        "stars": 185,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:51:37.161Z"
@@ -836,7 +836,7 @@
                     "open_issues": 1,
                     "owner": "EricZimmerman",
                     "repo": "RECmd",
-                    "stars": 184,
+                    "stars": 185,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:37.161Z"
@@ -1182,7 +1182,7 @@
             "open_issues": 0,
             "owner": "AndrewRathbun",
             "repo": "DFIRMindMaps",
-            "stars": 555,
+            "stars": 554,
             "topics": [
               "dfir",
               "digitalforensics",
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T10:45:20.833Z",
+    "last_updated": "2026-10-29T11:01:57.404Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of KAPE-related resources",

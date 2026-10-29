@@ -33,13 +33,13 @@ In line with other Awesome GitHub repos, Awesome-KAPE serves as a curated list o
 
 #### Official GitHub repositories:
 
-* [KapeFiles](https://github.com/EricZimmerman/KapeFiles) ⭐ 892 | 🐛 18 | 📅 2026-10-19 - This repository contains all the Targets and Modules utilized by KAPE to collect and process forensic artifacts
-  * [KapeFiles GitHub Project](https://github.com/EricZimmerman/KapeFiles/projects/1) ⭐ 892 | 🐛 18 | 📅 2026-10-19
+* [KapeFiles](https://github.com/EricZimmerman/KapeFiles) ⭐ 893 | 🐛 18 | 📅 2026-10-19 - This repository contains all the Targets and Modules utilized by KAPE to collect and process forensic artifacts
+  * [KapeFiles GitHub Project](https://github.com/EricZimmerman/KapeFiles/projects/1) ⭐ 893 | 🐛 18 | 📅 2026-10-19
 * [KapeDocs](https://github.com/EricZimmerman/KapeDocs) ⭐ 50 | 🐛 0 | 🌐 HTML | 📅 2026-02-11 - This repository serves as the backend for KAPE's Official Documentation, linked [here](https://ericzimmerman.github.io/KapeDocs/)
 
 #### Community KAPE-related GitHub repositories:
 
-* [CyberPipe](https://github.com/dwmetz/CyberPipe) ⭐ 349 | 🐛 0 | 🌐 PowerShell | 📅 2025-12-03
+* [CyberPipe](https://github.com/dwmetz/CyberPipe) ⭐ 348 | 🐛 0 | 🌐 PowerShell | 📅 2025-12-03
 * [iTunes\_Backup\_Reader](https://github.com/jfarley248/iTunes_Backup_Reader) ⭐ 192 | 🐛 19 | 🌐 Python | 📅 2023-10-16
 * [Invoke-Forensics](https://github.com/swisscom/Invoke-Forensics) ⭐ 119 | 🐛 0 | 🌐 PowerShell | 📅 2023-11-28
 * [IRCP](https://github.com/hackjalstead/IRCP) ⭐ 65 | 🐛 0 | 🌐 PowerShell | 📅 2022-01-31
@@ -73,15 +73,15 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
 
 #### Official GitHub repositories:
 
-* [EvtxECmd](https://github.com/EricZimmerman/evtx) ⭐ 377 | 🐛 1 | 🌐 C# | 📅 2026-10-25
-  * Namely, [Maps](https://github.com/EricZimmerman/evtx/tree/master/evtx/Maps) ⭐ 377 | 🐛 1 | 🌐 C# | 📅 2026-10-25 where EvtxECmd Maps are located
-    * [EvtxECmd GitHub Project](https://github.com/EricZimmerman/evtx/projects/1) ⭐ 377 | 🐛 1 | 🌐 C# | 📅 2026-10-25
+* [EvtxECmd](https://github.com/EricZimmerman/evtx) ⭐ 378 | 🐛 1 | 🌐 C# | 📅 2026-10-25
+  * Namely, [Maps](https://github.com/EricZimmerman/evtx/tree/master/evtx/Maps) ⭐ 378 | 🐛 1 | 🌐 C# | 📅 2026-10-25 where EvtxECmd Maps are located
+    * [EvtxECmd GitHub Project](https://github.com/EricZimmerman/evtx/projects/1) ⭐ 378 | 🐛 1 | 🌐 C# | 📅 2026-10-25
 * [LECmd](https://github.com/EricZimmerman/LECmd) ⭐ 350 | 🐛 0 | 🌐 C# | 📅 2026-10-25
-* [MFTECmd](https://github.com/EricZimmerman/MFTECmd) ⭐ 342 | 🐛 0 | 🌐 C# | 📅 2026-10-25
+* [MFTECmd](https://github.com/EricZimmerman/MFTECmd) ⭐ 343 | 🐛 0 | 🌐 C# | 📅 2026-10-25
 * [PECmd](https://github.com/EricZimmerman/PECmd) ⭐ 310 | 🐛 0 | 🌐 C# | 📅 2026-10-25
-* [RECmd](https://github.com/EricZimmerman/RECmd) ⭐ 184 | 🐛 1 | 🌐 Rebol | 📅 2026-10-25
-  * Namely, [BatchExamples](https://github.com/EricZimmerman/RECmd/tree/master/BatchExamples) ⭐ 184 | 🐛 1 | 🌐 Rebol | 📅 2026-10-25 where Batch Files are
-    * [RECmd Kroll Batch GitHub Project](https://github.com/EricZimmerman/RECmd/projects/1) ⭐ 184 | 🐛 1 | 🌐 Rebol | 📅 2026-10-25
+* [RECmd](https://github.com/EricZimmerman/RECmd) ⭐ 185 | 🐛 1 | 🌐 Rebol | 📅 2026-10-25
+  * Namely, [BatchExamples](https://github.com/EricZimmerman/RECmd/tree/master/BatchExamples) ⭐ 185 | 🐛 1 | 🌐 Rebol | 📅 2026-10-25 where Batch Files are
+    * [RECmd Kroll Batch GitHub Project](https://github.com/EricZimmerman/RECmd/projects/1) ⭐ 185 | 🐛 1 | 🌐 Rebol | 📅 2026-10-25
   * Also, [RegistryPlugins](https://github.com/EricZimmerman/RegistryPlugins) ⭐ 89 | 🐛 0 | 🌐 C# | 📅 2026-10-23 which are used by RECmd (and Registry Explorer) to generate more efficient/actionable output
     * [Registry Explorer Plugins GitHub Project](https://github.com/EricZimmerman/RegistryPlugins/projects/1) ⭐ 89 | 🐛 0 | 🌐 C# | 📅 2026-10-23
 * [AmcacheParser](https://github.com/EricZimmerman/AmcacheParser) ⭐ 162 | 🐛 0 | 🌐 C# | 📅 2026-10-25
@@ -118,7 +118,7 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
 
 ## Mind Maps
 
-* [DFIRMindMaps - KAPE](https://github.com/rathbuna/DFIRMindMaps/tree/main/Tools/KAPE) ⭐ 555 | 🐛 0 | 📅 2022-09-02
+* [DFIRMindMaps - KAPE](https://github.com/rathbuna/DFIRMindMaps/tree/main/Tools/KAPE) ⭐ 554 | 🐛 0 | 📅 2022-09-02
 
 ## SANS Poster
 
@@ -195,4 +195,4 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
