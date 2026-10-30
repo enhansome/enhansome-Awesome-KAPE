@@ -76,18 +76,18 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
 * [EvtxECmd](https://github.com/EricZimmerman/evtx) ⭐ 378 | 🐛 1 | 🌐 C# | 📅 2026-10-25
   * Namely, [Maps](https://github.com/EricZimmerman/evtx/tree/master/evtx/Maps) ⭐ 378 | 🐛 1 | 🌐 C# | 📅 2026-10-25 where EvtxECmd Maps are located
     * [EvtxECmd GitHub Project](https://github.com/EricZimmerman/evtx/projects/1) ⭐ 378 | 🐛 1 | 🌐 C# | 📅 2026-10-25
-* [LECmd](https://github.com/EricZimmerman/LECmd) ⭐ 350 | 🐛 0 | 🌐 C# | 📅 2026-10-25
+* [LECmd](https://github.com/EricZimmerman/LECmd) ⭐ 350 | 🐛 0 | 🌐 C# | 📅 2026-10-29
 * [MFTECmd](https://github.com/EricZimmerman/MFTECmd) ⭐ 343 | 🐛 0 | 🌐 C# | 📅 2026-10-25
 * [PECmd](https://github.com/EricZimmerman/PECmd) ⭐ 310 | 🐛 0 | 🌐 C# | 📅 2026-10-25
-* [RECmd](https://github.com/EricZimmerman/RECmd) ⭐ 185 | 🐛 1 | 🌐 Rebol | 📅 2026-10-25
-  * Namely, [BatchExamples](https://github.com/EricZimmerman/RECmd/tree/master/BatchExamples) ⭐ 185 | 🐛 1 | 🌐 Rebol | 📅 2026-10-25 where Batch Files are
-    * [RECmd Kroll Batch GitHub Project](https://github.com/EricZimmerman/RECmd/projects/1) ⭐ 185 | 🐛 1 | 🌐 Rebol | 📅 2026-10-25
-  * Also, [RegistryPlugins](https://github.com/EricZimmerman/RegistryPlugins) ⭐ 89 | 🐛 0 | 🌐 C# | 📅 2026-10-23 which are used by RECmd (and Registry Explorer) to generate more efficient/actionable output
-    * [Registry Explorer Plugins GitHub Project](https://github.com/EricZimmerman/RegistryPlugins/projects/1) ⭐ 89 | 🐛 0 | 🌐 C# | 📅 2026-10-23
+* [RECmd](https://github.com/EricZimmerman/RECmd) ⭐ 185 | 🐛 1 | 🌐 Rebol | 📅 2026-10-29
+  * Namely, [BatchExamples](https://github.com/EricZimmerman/RECmd/tree/master/BatchExamples) ⭐ 185 | 🐛 1 | 🌐 Rebol | 📅 2026-10-29 where Batch Files are
+    * [RECmd Kroll Batch GitHub Project](https://github.com/EricZimmerman/RECmd/projects/1) ⭐ 185 | 🐛 1 | 🌐 Rebol | 📅 2026-10-29
+  * Also, [RegistryPlugins](https://github.com/EricZimmerman/RegistryPlugins) ⭐ 89 | 🐛 0 | 🌐 C# | 📅 2026-10-29 which are used by RECmd (and Registry Explorer) to generate more efficient/actionable output
+    * [Registry Explorer Plugins GitHub Project](https://github.com/EricZimmerman/RegistryPlugins/projects/1) ⭐ 89 | 🐛 0 | 🌐 C# | 📅 2026-10-29
 * [AmcacheParser](https://github.com/EricZimmerman/AmcacheParser) ⭐ 162 | 🐛 0 | 🌐 C# | 📅 2026-10-25
 * [bstrings](https://github.com/EricZimmerman/bstrings) ⭐ 153 | 🐛 0 | 🌐 C# | 📅 2026-10-25
 * [AppCompatCacheParser](https://github.com/EricZimmerman/AppCompatCacheParser) ⭐ 130 | 🐛 0 | 🌐 C# | 📅 2026-10-25
-* [JLECmd](https://github.com/EricZimmerman/JLECmd) ⭐ 124 | 🐛 0 | 🌐 C# | 📅 2026-10-25
+* [JLECmd](https://github.com/EricZimmerman/JLECmd) ⭐ 124 | 🐛 0 | 🌐 C# | 📅 2026-10-29
 * [RBCmd](https://github.com/EricZimmerman/RBCmd) ⭐ 64 | 🐛 0 | 🌐 C# | 📅 2026-10-25
 * [SQLECmd](https://github.com/EricZimmerman/SQLECmd) ⭐ 61 | 🐛 0 | 🌐 C# | 📅 2026-10-25
   * Namely, [Maps](https://github.com/EricZimmerman/SQLECmd/tree/master/SQLMap/Maps) ⭐ 61 | 🐛 0 | 🌐 C# | 📅 2026-10-25 where SQLECmd Maps are located
@@ -195,4 +195,4 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
