@@ -28,7 +28,7 @@
                         "open_issues": 13,
                         "owner": "EricZimmerman",
                         "repo": "KapeFiles",
-                        "stars": 893,
+                        "stars": 894,
                         "topics": [
                           "gkape",
                           "kape",
@@ -49,7 +49,7 @@
                     "open_issues": 13,
                     "owner": "EricZimmerman",
                     "repo": "KapeFiles",
-                    "stars": 893,
+                    "stars": 894,
                     "topics": [
                       "gkape",
                       "kape",
@@ -759,7 +759,7 @@
                             "open_issues": 4,
                             "owner": "EricZimmerman",
                             "repo": "RECmd",
-                            "stars": 185,
+                            "stars": 186,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T16:51:37.161Z"
@@ -776,7 +776,7 @@
                         "open_issues": 4,
                         "owner": "EricZimmerman",
                         "repo": "RECmd",
-                        "stars": 185,
+                        "stars": 186,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:51:37.161Z"
@@ -836,7 +836,7 @@
                     "open_issues": 4,
                     "owner": "EricZimmerman",
                     "repo": "RECmd",
-                    "stars": 185,
+                    "stars": 186,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:37.161Z"
@@ -920,7 +920,7 @@
                     "open_issues": 3,
                     "owner": "EricZimmerman",
                     "repo": "JLECmd",
-                    "stars": 126,
+                    "stars": 125,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:37.161Z"
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T11:15:49.815Z",
+    "last_updated": "2026-11-08T11:27:49.347Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of KAPE-related resources",

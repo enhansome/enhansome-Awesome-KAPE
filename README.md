@@ -33,8 +33,8 @@ In line with other Awesome GitHub repos, Awesome-KAPE serves as a curated list o
 
 #### Official GitHub repositories:
 
-* [KapeFiles](https://github.com/EricZimmerman/KapeFiles) ⭐ 893 | 🐛 13 | 📅 2026-11-05 - This repository contains all the Targets and Modules utilized by KAPE to collect and process forensic artifacts
-  * [KapeFiles GitHub Project](https://github.com/EricZimmerman/KapeFiles/projects/1) ⭐ 893 | 🐛 13 | 📅 2026-11-05
+* [KapeFiles](https://github.com/EricZimmerman/KapeFiles) ⭐ 894 | 🐛 13 | 📅 2026-11-05 - This repository contains all the Targets and Modules utilized by KAPE to collect and process forensic artifacts
+  * [KapeFiles GitHub Project](https://github.com/EricZimmerman/KapeFiles/projects/1) ⭐ 894 | 🐛 13 | 📅 2026-11-05
 * [KapeDocs](https://github.com/EricZimmerman/KapeDocs) ⭐ 50 | 🐛 0 | 🌐 HTML | 📅 2026-02-11 - This repository serves as the backend for KAPE's Official Documentation, linked [here](https://ericzimmerman.github.io/KapeDocs/)
 
 #### Community KAPE-related GitHub repositories:
@@ -79,15 +79,15 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
 * [LECmd](https://github.com/EricZimmerman/LECmd) ⭐ 350 | 🐛 3 | 🌐 C# | 📅 2026-11-01
 * [MFTECmd](https://github.com/EricZimmerman/MFTECmd) ⭐ 343 | 🐛 4 | 🌐 C# | 📅 2026-11-01
 * [PECmd](https://github.com/EricZimmerman/PECmd) ⭐ 313 | 🐛 0 | 🌐 C# | 📅 2026-10-25
-* [RECmd](https://github.com/EricZimmerman/RECmd) ⭐ 185 | 🐛 4 | 🌐 Rebol | 📅 2026-11-01
-  * Namely, [BatchExamples](https://github.com/EricZimmerman/RECmd/tree/master/BatchExamples) ⭐ 185 | 🐛 4 | 🌐 Rebol | 📅 2026-11-01 where Batch Files are
-    * [RECmd Kroll Batch GitHub Project](https://github.com/EricZimmerman/RECmd/projects/1) ⭐ 185 | 🐛 4 | 🌐 Rebol | 📅 2026-11-01
+* [RECmd](https://github.com/EricZimmerman/RECmd) ⭐ 186 | 🐛 4 | 🌐 Rebol | 📅 2026-11-01
+  * Namely, [BatchExamples](https://github.com/EricZimmerman/RECmd/tree/master/BatchExamples) ⭐ 186 | 🐛 4 | 🌐 Rebol | 📅 2026-11-01 where Batch Files are
+    * [RECmd Kroll Batch GitHub Project](https://github.com/EricZimmerman/RECmd/projects/1) ⭐ 186 | 🐛 4 | 🌐 Rebol | 📅 2026-11-01
   * Also, [RegistryPlugins](https://github.com/EricZimmerman/RegistryPlugins) ⭐ 89 | 🐛 1 | 🌐 C# | 📅 2026-11-01 which are used by RECmd (and Registry Explorer) to generate more efficient/actionable output
     * [Registry Explorer Plugins GitHub Project](https://github.com/EricZimmerman/RegistryPlugins/projects/1) ⭐ 89 | 🐛 1 | 🌐 C# | 📅 2026-11-01
 * [AmcacheParser](https://github.com/EricZimmerman/AmcacheParser) ⭐ 163 | 🐛 3 | 🌐 C# | 📅 2026-11-01
 * [bstrings](https://github.com/EricZimmerman/bstrings) ⭐ 152 | 🐛 2 | 🌐 C# | 📅 2026-11-01
 * [AppCompatCacheParser](https://github.com/EricZimmerman/AppCompatCacheParser) ⭐ 130 | 🐛 2 | 🌐 C# | 📅 2026-11-01
-* [JLECmd](https://github.com/EricZimmerman/JLECmd) ⭐ 126 | 🐛 3 | 🌐 C# | 📅 2026-11-01
+* [JLECmd](https://github.com/EricZimmerman/JLECmd) ⭐ 125 | 🐛 3 | 🌐 C# | 📅 2026-11-01
 * [RBCmd](https://github.com/EricZimmerman/RBCmd) ⭐ 64 | 🐛 3 | 🌐 C# | 📅 2026-11-01
 * [SQLECmd](https://github.com/EricZimmerman/SQLECmd) ⭐ 61 | 🐛 5 | 🌐 C# | 📅 2026-11-01
   * Namely, [Maps](https://github.com/EricZimmerman/SQLECmd/tree/master/SQLMap/Maps) ⭐ 61 | 🐛 5 | 🌐 C# | 📅 2026-11-01 where SQLECmd Maps are located
@@ -195,4 +195,4 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
