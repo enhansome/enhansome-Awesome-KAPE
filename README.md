@@ -39,7 +39,7 @@ In line with other Awesome GitHub repos, Awesome-KAPE serves as a curated list o
 
 #### Community KAPE-related GitHub repositories:
 
-* [CyberPipe](https://github.com/dwmetz/CyberPipe) ⭐ 347 | 🐛 0 | 🌐 PowerShell | 📅 2025-12-03
+* [CyberPipe](https://github.com/dwmetz/CyberPipe) ⭐ 346 | 🐛 0 | 🌐 PowerShell | 📅 2025-12-03
 * [iTunes\_Backup\_Reader](https://github.com/jfarley248/iTunes_Backup_Reader) ⭐ 192 | 🐛 19 | 🌐 Python | 📅 2023-10-16
 * [Invoke-Forensics](https://github.com/swisscom/Invoke-Forensics) ⭐ 119 | 🐛 0 | 🌐 PowerShell | 📅 2023-11-28
 * [IRCP](https://github.com/hackjalstead/IRCP) ⭐ 65 | 🐛 0 | 🌐 PowerShell | 📅 2022-01-31
@@ -77,7 +77,7 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
   * Namely, [Maps](https://github.com/EricZimmerman/evtx/tree/master/evtx/Maps) ⭐ 378 | 🐛 5 | 🌐 C# | 📅 2026-11-04 where EvtxECmd Maps are located
     * [EvtxECmd GitHub Project](https://github.com/EricZimmerman/evtx/projects/1) ⭐ 378 | 🐛 5 | 🌐 C# | 📅 2026-11-04
 * [LECmd](https://github.com/EricZimmerman/LECmd) ⭐ 350 | 🐛 3 | 🌐 C# | 📅 2026-11-01
-* [MFTECmd](https://github.com/EricZimmerman/MFTECmd) ⭐ 343 | 🐛 4 | 🌐 C# | 📅 2026-11-01
+* [MFTECmd](https://github.com/EricZimmerman/MFTECmd) ⭐ 344 | 🐛 4 | 🌐 C# | 📅 2026-11-01
 * [PECmd](https://github.com/EricZimmerman/PECmd) ⭐ 313 | 🐛 0 | 🌐 C# | 📅 2026-10-25
 * [RECmd](https://github.com/EricZimmerman/RECmd) ⭐ 186 | 🐛 4 | 🌐 Rebol | 📅 2026-11-01
   * Namely, [BatchExamples](https://github.com/EricZimmerman/RECmd/tree/master/BatchExamples) ⭐ 186 | 🐛 4 | 🌐 Rebol | 📅 2026-11-01 where Batch Files are
@@ -195,4 +195,4 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
