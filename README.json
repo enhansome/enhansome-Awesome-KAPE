@@ -102,7 +102,7 @@
                     "open_issues": 0,
                     "owner": "dwmetz",
                     "repo": "CyberPipe",
-                    "stars": 346,
+                    "stars": 347,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:37.161Z"
@@ -700,7 +700,7 @@
                     "language": "C#",
                     "license": "MIT",
                     "last_commit": "2026-11-01T05:23:37Z",
-                    "open_issues": 4,
+                    "open_issues": 5,
                     "owner": "EricZimmerman",
                     "repo": "MFTECmd",
                     "stars": 344,
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T13:14:55.366Z",
+    "last_updated": "2026-11-10T12:53:46.006Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of KAPE-related resources",
