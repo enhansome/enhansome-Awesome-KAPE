@@ -24,11 +24,11 @@
                         "id": 152290823,
                         "language": null,
                         "license": "MIT",
-                        "last_commit": "2026-11-05T22:25:46Z",
+                        "last_commit": "2026-11-11T14:44:24Z",
                         "open_issues": 13,
                         "owner": "EricZimmerman",
                         "repo": "KapeFiles",
-                        "stars": 894,
+                        "stars": 895,
                         "topics": [
                           "gkape",
                           "kape",
@@ -45,11 +45,11 @@
                     "id": 152290823,
                     "language": null,
                     "license": "MIT",
-                    "last_commit": "2026-11-05T22:25:46Z",
+                    "last_commit": "2026-11-11T14:44:24Z",
                     "open_issues": 13,
                     "owner": "EricZimmerman",
                     "repo": "KapeFiles",
-                    "stars": 894,
+                    "stars": 895,
                     "topics": [
                       "gkape",
                       "kape",
@@ -102,7 +102,7 @@
                     "open_issues": 0,
                     "owner": "dwmetz",
                     "repo": "CyberPipe",
-                    "stars": 348,
+                    "stars": 349,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:37.161Z"
@@ -200,7 +200,7 @@
                     "open_issues": 0,
                     "owner": "evild3ad",
                     "repo": "Get-MiniTimeline",
-                    "stars": 37,
+                    "stars": 38,
                     "topics": [
                       "dfir",
                       "digital-forensics",
@@ -759,7 +759,7 @@
                             "open_issues": 4,
                             "owner": "EricZimmerman",
                             "repo": "RECmd",
-                            "stars": 186,
+                            "stars": 188,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T16:51:37.161Z"
@@ -776,7 +776,7 @@
                         "open_issues": 4,
                         "owner": "EricZimmerman",
                         "repo": "RECmd",
-                        "stars": 186,
+                        "stars": 188,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:51:37.161Z"
@@ -836,7 +836,7 @@
                     "open_issues": 4,
                     "owner": "EricZimmerman",
                     "repo": "RECmd",
-                    "stars": 186,
+                    "stars": 188,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:51:37.161Z"
@@ -1182,7 +1182,7 @@
             "open_issues": 0,
             "owner": "AndrewRathbun",
             "repo": "DFIRMindMaps",
-            "stars": 555,
+            "stars": 556,
             "topics": [
               "dfir",
               "digitalforensics",
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T12:03:51.643Z",
+    "last_updated": "2026-11-12T13:07:35.428Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of KAPE-related resources",
@@ -1213,7 +1213,7 @@
       "open_issues": 0,
       "owner": "AndrewRathbun",
       "repo": "Awesome-KAPE",
-      "stars": 192,
+      "stars": 193,
       "topics": [
         "awesome",
         "awesome-list",

@@ -33,17 +33,17 @@ In line with other Awesome GitHub repos, Awesome-KAPE serves as a curated list o
 
 #### Official GitHub repositories:
 
-* [KapeFiles](https://github.com/EricZimmerman/KapeFiles) ⭐ 894 | 🐛 13 | 📅 2026-11-05 - This repository contains all the Targets and Modules utilized by KAPE to collect and process forensic artifacts
-  * [KapeFiles GitHub Project](https://github.com/EricZimmerman/KapeFiles/projects/1) ⭐ 894 | 🐛 13 | 📅 2026-11-05
+* [KapeFiles](https://github.com/EricZimmerman/KapeFiles) ⭐ 895 | 🐛 13 | 📅 2026-11-11 - This repository contains all the Targets and Modules utilized by KAPE to collect and process forensic artifacts
+  * [KapeFiles GitHub Project](https://github.com/EricZimmerman/KapeFiles/projects/1) ⭐ 895 | 🐛 13 | 📅 2026-11-11
 * [KapeDocs](https://github.com/EricZimmerman/KapeDocs) ⭐ 50 | 🐛 0 | 🌐 HTML | 📅 2026-02-11 - This repository serves as the backend for KAPE's Official Documentation, linked [here](https://ericzimmerman.github.io/KapeDocs/)
 
 #### Community KAPE-related GitHub repositories:
 
-* [CyberPipe](https://github.com/dwmetz/CyberPipe) ⭐ 348 | 🐛 0 | 🌐 PowerShell | 📅 2025-12-03
+* [CyberPipe](https://github.com/dwmetz/CyberPipe) ⭐ 349 | 🐛 0 | 🌐 PowerShell | 📅 2025-12-03
 * [iTunes\_Backup\_Reader](https://github.com/jfarley248/iTunes_Backup_Reader) ⭐ 192 | 🐛 19 | 🌐 Python | 📅 2023-10-16
 * [Invoke-Forensics](https://github.com/swisscom/Invoke-Forensics) ⭐ 119 | 🐛 0 | 🌐 PowerShell | 📅 2023-11-28
 * [IRCP](https://github.com/hackjalstead/IRCP) ⭐ 65 | 🐛 0 | 🌐 PowerShell | 📅 2022-01-31
-* [Get-MiniTimeline](https://github.com/evild3ad/Get-MiniTimeline) ⭐ 37 | 🐛 0 | 🌐 PowerShell | 📅 2024-05-25
+* [Get-MiniTimeline](https://github.com/evild3ad/Get-MiniTimeline) ⭐ 38 | 🐛 0 | 🌐 PowerShell | 📅 2024-05-25
 * [ForensicImageKAPEOutput](https://github.com/AndrewRathbun/ForensicImageKAPEOutput) ⭐ 18 | 🐛 0 | 📅 2024-08-31
 * [Get-KapeModuleBinaries](https://github.com/grayfold3d/Get-KapeModuleBinaries) ⭐ 18 | 🐛 0 | 🌐 PowerShell | 📅 2019-10-02
 * [KapeStrike](https://github.com/Snausage0x45/KapeStrike) ⭐ 15 | 🐛 0 | 🌐 PowerShell | 📅 2022-03-05
@@ -79,9 +79,9 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
 * [LECmd](https://github.com/EricZimmerman/LECmd) ⭐ 350 | 🐛 3 | 🌐 C# | 📅 2026-11-01
 * [MFTECmd](https://github.com/EricZimmerman/MFTECmd) ⭐ 344 | 🐛 5 | 🌐 C# | 📅 2026-11-01
 * [PECmd](https://github.com/EricZimmerman/PECmd) ⭐ 313 | 🐛 0 | 🌐 C# | 📅 2026-10-25
-* [RECmd](https://github.com/EricZimmerman/RECmd) ⭐ 186 | 🐛 4 | 🌐 Rebol | 📅 2026-11-01
-  * Namely, [BatchExamples](https://github.com/EricZimmerman/RECmd/tree/master/BatchExamples) ⭐ 186 | 🐛 4 | 🌐 Rebol | 📅 2026-11-01 where Batch Files are
-    * [RECmd Kroll Batch GitHub Project](https://github.com/EricZimmerman/RECmd/projects/1) ⭐ 186 | 🐛 4 | 🌐 Rebol | 📅 2026-11-01
+* [RECmd](https://github.com/EricZimmerman/RECmd) ⭐ 188 | 🐛 4 | 🌐 Rebol | 📅 2026-11-01
+  * Namely, [BatchExamples](https://github.com/EricZimmerman/RECmd/tree/master/BatchExamples) ⭐ 188 | 🐛 4 | 🌐 Rebol | 📅 2026-11-01 where Batch Files are
+    * [RECmd Kroll Batch GitHub Project](https://github.com/EricZimmerman/RECmd/projects/1) ⭐ 188 | 🐛 4 | 🌐 Rebol | 📅 2026-11-01
   * Also, [RegistryPlugins](https://github.com/EricZimmerman/RegistryPlugins) ⭐ 89 | 🐛 1 | 🌐 C# | 📅 2026-11-01 which are used by RECmd (and Registry Explorer) to generate more efficient/actionable output
     * [Registry Explorer Plugins GitHub Project](https://github.com/EricZimmerman/RegistryPlugins/projects/1) ⭐ 89 | 🐛 1 | 🌐 C# | 📅 2026-11-01
 * [AmcacheParser](https://github.com/EricZimmerman/AmcacheParser) ⭐ 163 | 🐛 3 | 🌐 C# | 📅 2026-11-01
@@ -118,7 +118,7 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
 
 ## Mind Maps
 
-* [DFIRMindMaps - KAPE](https://github.com/rathbuna/DFIRMindMaps/tree/main/Tools/KAPE) ⭐ 555 | 🐛 0 | 📅 2022-09-02
+* [DFIRMindMaps - KAPE](https://github.com/rathbuna/DFIRMindMaps/tree/main/Tools/KAPE) ⭐ 556 | 🐛 0 | 📅 2022-09-02
 
 ## SANS Poster
 
@@ -195,4 +195,4 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
