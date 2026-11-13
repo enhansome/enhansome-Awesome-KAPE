@@ -24,7 +24,7 @@
                         "id": 152290823,
                         "language": null,
                         "license": "MIT",
-                        "last_commit": "2026-11-11T14:44:24Z",
+                        "last_commit": "2026-11-12T18:11:25Z",
                         "open_issues": 13,
                         "owner": "EricZimmerman",
                         "repo": "KapeFiles",
@@ -45,7 +45,7 @@
                     "id": 152290823,
                     "language": null,
                     "license": "MIT",
-                    "last_commit": "2026-11-11T14:44:24Z",
+                    "last_commit": "2026-11-12T18:11:25Z",
                     "open_issues": 13,
                     "owner": "EricZimmerman",
                     "repo": "KapeFiles",
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T13:07:35.428Z",
+    "last_updated": "2026-11-13T12:30:55.415Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of KAPE-related resources",
