@@ -703,7 +703,7 @@
                     "open_issues": 5,
                     "owner": "EricZimmerman",
                     "repo": "MFTECmd",
-                    "stars": 344,
+                    "stars": 345,
                     "topics": [
                       "forensics",
                       "mft",
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T12:10:32.656Z",
+    "last_updated": "2026-11-16T13:03:35.549Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of KAPE-related resources",
