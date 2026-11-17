@@ -612,7 +612,7 @@
                             "open_issues": 5,
                             "owner": "EricZimmerman",
                             "repo": "evtx",
-                            "stars": 379,
+                            "stars": 380,
                             "topics": [
                               "event",
                               "eventlog",
@@ -634,7 +634,7 @@
                         "open_issues": 5,
                         "owner": "EricZimmerman",
                         "repo": "evtx",
-                        "stars": 379,
+                        "stars": 380,
                         "topics": [
                           "event",
                           "eventlog",
@@ -656,7 +656,7 @@
                     "open_issues": 5,
                     "owner": "EricZimmerman",
                     "repo": "evtx",
-                    "stars": 379,
+                    "stars": 380,
                     "topics": [
                       "event",
                       "eventlog",
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T13:03:35.549Z",
+    "last_updated": "2026-11-17T13:45:09.494Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of KAPE-related resources",
