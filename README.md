@@ -79,9 +79,9 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
 * [LECmd](https://github.com/EricZimmerman/LECmd) ⭐ 351 | 🐛 0 | 🌐 C# | 📅 2026-11-21
 * [MFTECmd](https://github.com/EricZimmerman/MFTECmd) ⭐ 346 | 🐛 0 | 🌐 C# | 📅 2026-11-21
 * [PECmd](https://github.com/EricZimmerman/PECmd) ⭐ 315 | 🐛 0 | 🌐 C# | 📅 2026-11-21
-* [RECmd](https://github.com/EricZimmerman/RECmd) ⭐ 189 | 🐛 1 | 🌐 Rebol | 📅 2026-11-21
-  * Namely, [BatchExamples](https://github.com/EricZimmerman/RECmd/tree/master/BatchExamples) ⭐ 189 | 🐛 1 | 🌐 Rebol | 📅 2026-11-21 where Batch Files are
-    * [RECmd Kroll Batch GitHub Project](https://github.com/EricZimmerman/RECmd/projects/1) ⭐ 189 | 🐛 1 | 🌐 Rebol | 📅 2026-11-21
+* [RECmd](https://github.com/EricZimmerman/RECmd) ⭐ 189 | 🐛 0 | 🌐 Rebol | 📅 2026-11-21
+  * Namely, [BatchExamples](https://github.com/EricZimmerman/RECmd/tree/master/BatchExamples) ⭐ 189 | 🐛 0 | 🌐 Rebol | 📅 2026-11-21 where Batch Files are
+    * [RECmd Kroll Batch GitHub Project](https://github.com/EricZimmerman/RECmd/projects/1) ⭐ 189 | 🐛 0 | 🌐 Rebol | 📅 2026-11-21
   * Also, [RegistryPlugins](https://github.com/EricZimmerman/RegistryPlugins) ⭐ 89 | 🐛 0 | 🌐 C# | 📅 2026-11-21 which are used by RECmd (and Registry Explorer) to generate more efficient/actionable output
     * [Registry Explorer Plugins GitHub Project](https://github.com/EricZimmerman/RegistryPlugins/projects/1) ⭐ 89 | 🐛 0 | 🌐 C# | 📅 2026-11-21
 * [AmcacheParser](https://github.com/EricZimmerman/AmcacheParser) ⭐ 163 | 🐛 0 | 🌐 C# | 📅 2026-11-21
@@ -100,7 +100,7 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
 
 ## Updating KAPE and EZ Tools
 
-* [KAPE-EZToolsAncillaryUpdater](https://github.com/rathbuna/KAPE-EZToolsAncillaryUpdater) ⭐ 63 | 🐛 1 | 🌐 PowerShell | 📅 2026-10-23 - Keep KAPE and all tools located within `.\KAPE\Modules\bin\*` updated with a single PowerShell script!
+* [KAPE-EZToolsAncillaryUpdater](https://github.com/rathbuna/KAPE-EZToolsAncillaryUpdater) ⭐ 64 | 🐛 1 | 🌐 PowerShell | 📅 2026-10-23 - Keep KAPE and all tools located within `.\KAPE\Modules\bin\*` updated with a single PowerShell script!
 
 ## Resources
 
@@ -195,4 +195,4 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._

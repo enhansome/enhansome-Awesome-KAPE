@@ -756,7 +756,7 @@
                             "language": "Rebol",
                             "license": "MIT",
                             "last_commit": "2026-11-21T13:59:39Z",
-                            "open_issues": 1,
+                            "open_issues": 0,
                             "owner": "EricZimmerman",
                             "repo": "RECmd",
                             "stars": 189,
@@ -773,7 +773,7 @@
                         "language": "Rebol",
                         "license": "MIT",
                         "last_commit": "2026-11-21T13:59:39Z",
-                        "open_issues": 1,
+                        "open_issues": 0,
                         "owner": "EricZimmerman",
                         "repo": "RECmd",
                         "stars": 189,
@@ -833,7 +833,7 @@
                     "language": "Rebol",
                     "license": "MIT",
                     "last_commit": "2026-11-21T13:59:39Z",
-                    "open_issues": 1,
+                    "open_issues": 0,
                     "owner": "EricZimmerman",
                     "repo": "RECmd",
                     "stars": 189,
@@ -1148,7 +1148,7 @@
             "open_issues": 1,
             "owner": "AndrewRathbun",
             "repo": "KAPE-EZToolsAncillaryUpdater",
-            "stars": 63,
+            "stars": 64,
             "topics": [
               "dfir",
               "digitalforensics",
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T15:12:07.074Z",
+    "last_updated": "2026-11-24T15:10:01.370Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of KAPE-related resources",
